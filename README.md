@@ -66,7 +66,7 @@ print(df.head())
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | zero.coupons     | available | $3.99     | $71.99        | 112            | 53     | 4      | name.com          |
 | domain.coupons   | resell    | —         | —             | 80             | 66     | 6      | Porkbun LLC       |
-| free.coupons     | premium   | $11,250   | $11,250       | 88             | 59     | 4      | name.com          |
+| free.coupons     | premium   | $11,250   | $11,250       | 88             | 57     | 4      | name.com          |
 | creative.coupons | available | $3.99     | $71.99        | 92             | 45     | 8      | name.com          |
 | open.coupons     | resell    | —         | —             | 106            | 61     | 4      | Dynadot Inc       |
 | good.coupons     | premium   | $82.50    | $82.50        | 82             | 55     | 4      | name.com          |
@@ -76,7 +76,7 @@ print(df.head())
 | mix.coupons      | available | $3.99     | $71.99        | 66             | 45     | 3      | name.com          |
 | cloud.coupons    | resell    | —         | —             | 70             | 59     | 5      | Porkbun LLC       |
 | travel.coupons   | premium   | $1,040    | $1,040        | 115            | 48     | 6      | namecheap         |
-| forge.coupons    | available | $3.99     | $71.99        | 62             | 45     | 5      | name.com          |
+| forge.coupons    | available | $3.99     | $71.99        | 62             | 44     | 5      | name.com          |
 | search.coupons   | resell    | —         | —             | 70             | 57     | 6      | Sav.com, LLC - 13 |
 | big.coupons      | premium   | $82.50    | $82.50        | 88             | 47     | 3      | name.com          |
 | wizard.coupons   | available | $3.99     | $71.99        | 118            | 43     | 6      | name.com          |
