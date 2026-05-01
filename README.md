@@ -1,10 +1,10 @@
-# Available .COUPONS One-Word Domains (11,885)
+# Available .COUPONS One-Word Domains (12,502)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C885%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C502%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .coupons one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,885 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,502 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,885 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,502 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/coupons`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| cars.coupons         | available | $3.99     | —             | 66             | 47     | 4      | name.com                   |
-| europe.coupons       | resell    | —         | —             | 68             | 36     | 6      | NameSilo, LLC              |
-| events.coupons       | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                   |
 | WiFi.coupons         | available | $59.98    | —             | 83             | 37     | 5      | namecheap                  |
-| webshop.coupons      | resell    | —         | —             | 76             | 22     | 8      | The Registrar Company B.V. |
-| pins.coupons         | premium   | $82.50    | —             | 68             | 15     | 4      | name.com                   |
+| make.coupons         | resell    | —         | —             | 82             | 45     | 4      | GoDaddy.com, LLC           |
+| events.coupons       | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                   |
 | stories.coupons      | available | $3.99     | —             | 58             | 36     | 7      | name.com                   |
-| thanksgiving.coupons | resell    | —         | —             | 84             | 13     | 12     | Spaceship, Inc.            |
+| europe.coupons       | resell    | —         | —             | 68             | 36     | 6      | NameSilo, LLC              |
+| rewards.coupons      | premium   | $500      | —             | 62             | 30     | 7      | name.com                   |
 | teams.coupons        | available | $3.99     | —             | 62             | 32     | 5      | name.com                   |
+| webshop.coupons      | resell    | —         | —             | 76             | 22     | 8      | The Registrar Company B.V. |
 | trends.coupons       | available | $3.99     | —             | 60             | 32     | 6      | name.com                   |
 | letsgo.coupons       | available | $3.99     | —             | 57             | 31     | 7      | name.com                   |
 | maps.coupons         | available | $3.99     | —             | 56             | 31     | 4      | name.com                   |
 | inspiration.coupons  | available | $3.99     | —             | 88             | 30     | 11     | name.com                   |
-| popup.coupons        | available | $3.99     | —             | 84             | 29     | 6      | name.com                   |
 | gems.coupons         | available | $3.99     | —             | 70             | 28     | 4      | name.com                   |
 | backyard.coupons     | available | $3.99     | —             | 80             | 27     | 9      | name.com                   |
-| systems.coupons      | available | $3.99     | —             | 46             | 27     | 7      | name.com                   |
 | drops.coupons        | available | $3.99     | —             | 52             | 25     | 5      | name.com                   |
 | chem.coupons         | available | $3.99     | —             | 74             | 24     | 4      | name.com                   |
-| loans.coupons        | available | $3.99     | —             | 58             | 24     | 5      | name.com                   |
+| boats.coupons        | available | $3.99     | —             | 52             | 24     | 5      | name.com                   |
+| rekt.coupons         | available | $3.99     | —             | 40             | 24     | 4      | name.com                   |
+| superhero.coupons    | available | $3.99     | —             | 84             | 23     | 9      | name.com                   |
+| deeplearning.coupons | available | $3.99     | —             | 74             | 23     | 13     | name.com                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,885 live domains                              |
+| 1,000-row public sample | 12,502 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
