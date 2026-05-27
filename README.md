@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .coupons one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,503 domains · **Median ask:** $30.88 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/coupons`  
 **Best for:** founders, investors, studios
 
@@ -75,8 +75,8 @@ print(df.head())
 | trends.coupons       | available | $3.99     | —             | 60             | 32     | 6      | name.com                   |
 | letsgo.coupons       | available | $3.99     | —             | 57             | 31     | 7      | name.com                   |
 | maps.coupons         | available | $3.99     | —             | 56             | 31     | 4      | name.com                   |
-| inspiration.coupons  | available | $3.99     | —             | 88             | 30     | 11     | name.com                   |
 | gems.coupons         | available | $3.99     | —             | 70             | 28     | 4      | name.com                   |
+| inspiration.coupons  | available | $3.99     | —             | 88             | 27     | 11     | name.com                   |
 | backyard.coupons     | available | $3.99     | —             | 80             | 27     | 9      | name.com                   |
 | drops.coupons        | available | $3.99     | —             | 52             | 25     | 5      | name.com                   |
 | chem.coupons         | available | $3.99     | —             | 74             | 24     | 4      | name.com                   |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
