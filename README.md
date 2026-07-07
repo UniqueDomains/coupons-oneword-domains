@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .coupons one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,503 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,503 domains · **Median ask:** $30.88 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,503 domains · **Median ask:** $29.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/coupons`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/coupons`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COUPONS one-word doma
 
 ### Files
 
-- `coupons.csv` — public CSV extract (1,000 rows)
-- `coupons.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `coupons.csv`, public CSV extract (1,000 rows)
+- `coupons.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
-| WiFi.coupons         | available | $59.98    | —             | 83             | 37     | 5      | namecheap                  |
-| make.coupons         | resell    | —         | —             | 82             | 45     | 4      | GoDaddy.com, LLC           |
-| events.coupons       | premium   | $82.50    | —             | 68             | 37     | 6      | name.com                   |
-| stories.coupons      | available | $3.99     | —             | 58             | 36     | 7      | name.com                   |
-| europe.coupons       | resell    | —         | —             | 68             | 38     | 6      | NameSilo, LLC              |
-| rewards.coupons      | premium   | $500      | —             | 62             | 30     | 7      | name.com                   |
-| teams.coupons        | available | $3.99     | —             | 62             | 32     | 5      | name.com                   |
-| webshop.coupons      | resell    | —         | —             | 76             | 22     | 8      | The Registrar Company B.V. |
-| trends.coupons       | available | $3.99     | —             | 60             | 32     | 6      | name.com                   |
-| letsgo.coupons       | available | $3.99     | —             | 57             | 31     | 7      | name.com                   |
-| maps.coupons         | available | $3.99     | —             | 56             | 31     | 4      | name.com                   |
-| gems.coupons         | available | $3.99     | —             | 70             | 28     | 4      | name.com                   |
-| inspiration.coupons  | available | $3.99     | —             | 88             | 27     | 11     | name.com                   |
-| backyard.coupons     | available | $3.99     | —             | 80             | 27     | 9      | name.com                   |
-| drops.coupons        | available | $3.99     | —             | 52             | 25     | 5      | name.com                   |
-| chem.coupons         | available | $3.99     | —             | 74             | 24     | 4      | name.com                   |
-| boats.coupons        | available | $3.99     | —             | 52             | 24     | 5      | name.com                   |
-| rekt.coupons         | available | $3.99     | —             | 40             | 24     | 4      | name.com                   |
-| superhero.coupons    | available | $3.99     | —             | 84             | 23     | 9      | name.com                   |
-| deeplearning.coupons | available | $3.99     | —             | 74             | 23     | 13     | name.com                   |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| cod.coupons   | available | $3.99     | —             | high           | low    | 3      | name.com          |
+| max.coupons   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| dog.coupons   | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
+| dig.coupons   | available | $3.99     | —             | high           | low    | 3      | name.com          |
+| xxx.coupons   | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC      |
+| book.coupons  | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo          |
+| due.coupons   | available | $3.99     | —             | high           | low    | 3      | name.com          |
+| fast.coupons  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| tire.coupons  | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
+| dye.coupons   | available | $3.99     | —             | medium         | low    | 3      | name.com          |
+| info.coupons  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| beach.coupons | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo          |
+| feb.coupons   | available | $3.99     | —             | high           | low    | 3      | name.com          |
+| just.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 34 |
+| event.coupons | premium   | $85.80    | $85.80        | high           | medium | 5      | namecheap         |
+| gal.coupons   | available | $3.99     | —             | medium         | low    | 3      | name.com          |
+| live.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
+| house.coupons | premium   | $242      | $242          | high           | medium | 5      | namesilo          |
+| low.coupons   | available | $3.99     | $71.99        | high           | low    | 3      | name.com          |
+| star.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 27 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is defined by a single trait: each domain is a one-word name on the .coupons extension. That makes extension fit the first filter. Names such as believe.coupons, account.coupons, and endorse.coupons read differently from saucepan.coupons or Shakespeare.coupons, even at similar asking levels. For founders, the key question is whether the word makes the offer instantly legible and memorable. For investors, the key question is whether the keyword has commercial intent and realistic resale appeal within a niche extension. With a median ask of 30.88, weak-fit words can still be overpriced if the term does not naturally pair with coupon-driven use.
+The .coupons extension carries a low entry cost, with a median asking price of $29.80 across 12,503 one-word listings. Names in this set span everyday compound words — from butterflies.coupons and weddingcake.coupons to solarpower.coupons and dogwalking.coupons — making it a budget-friendly pool for founders building coupon, deals, or promo-focused brands, and for investors testing demand in a niche, low-cost TLD. Because renewal and resale economics vary widely at this price point, comparing individual asking prices against the median is the fastest way to spot standouts in this selection.
 
-- Prioritize words that clearly match discount or offer intent
-- Favor memorable terms over obscure or awkward pairings
-- Check ask price against extension-specific commercial fit
-- Watch for trademark exposure in brand-like dictionary terms
+- 12,503 one-word .coupons domain names in this selection
+- Median asking price: $29.80 — a low-cost entry point
+- Compound one-word names (e.g., coffeecake, dogwalking)
+- Updated daily to reflect current listings and pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
