@@ -1,10 +1,10 @@
-# Available .COUPONS One-Word Domains (14,689)
+# Available .COUPONS One-Word Domains (15,376)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C689%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-15%2C376%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .coupons one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **14,689 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **15,376 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 14,689 domains · **Median ask:** $21.70 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 15,376 domains · **Median ask:** $20.86 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-08-13
+**Last updated:** 2026-08-14
 **Canonical page:** `https://unique.domains/domains/tld/coupons`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,6 @@ print(df.head())
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | just.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 34 |
-| here.coupons  | available | —         | —             | high           | low    | 4      | —                 |
 | aft.coupons   | available | $2.98     | $59.98        | low            | low    | 3      | namecheap         |
 | max.coupons   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
 | dog.coupons   | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
@@ -84,6 +83,7 @@ print(df.head())
 | star.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 27 |
 | event.coupons | premium   | $85.80    | $85.80        | high           | medium | 5      | namecheap         |
 | gal.coupons   | available | $3.99     | —             | medium         | low    | 3      | name.com          |
+| alpha.coupons | resell    | —         | —             | high           | medium | 5      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 14,689 live domains                        |
+| 1,000-row public sample | 15,376 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-08-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
