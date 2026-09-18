@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .coupons one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 26,011 domains · **Median ask:** $13.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/tld/coupons`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| just.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 34 |
 | aft.coupons   | available | $2.98     | $59.98        | low            | low    | 3      | namecheap         |
 | max.coupons   | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
 | dog.coupons   | premium   | $82.50    | —             | high           | low    | 3      | name.com          |
@@ -74,7 +75,6 @@ print(df.head())
 | info.coupons  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
 | tire.coupons  | premium   | $242      | $242          | high           | low    | 4      | namesilo          |
 | due.coupons   | available | $3.99     | —             | high           | low    | 3      | name.com          |
-| just.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 34 |
 | alert.coupons | premium   | $78.54    | $78.54        | medium         | low    | 5      | namesilo          |
 | dye.coupons   | available | $3.99     | —             | medium         | low    | 3      | name.com          |
 | live.coupons  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC      |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COUPONS One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
