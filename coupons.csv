@@ -17,9 +17,9 @@ b8f54659-8389-4600-8911-0e70a119509e,redapple.coupons,available,3.99,,high,low,9
 1db8205d-ae66-43b8-8917-c789acf32d40,shoppingcentre.coupons,available,3.99,,high,low,15,name.com,,,
 eabb4370-e8ab-463a-af36-5d4eff60618d,adenoid.coupons,available,2.98,59.98,low,low,7,namecheap,,,
 0d19c54a-aeb4-415e-a312-7a79dd19dc12,panoptic.coupons,available,2.98,59.98,low,low,8,namecheap,,,
-651ca5df-fac1-4ca6-9625-8274aa3d6aa8,image.coupons,available,2.98,59.98,medium,medium,5,namecheap,,,14/09/2026 05:42
+651ca5df-fac1-4ca6-9625-8274aa3d6aa8,image.coupons,available,5.99,54.99,medium,low,5,namesilo,,,19/09/2026 12:04
 5dc22402-a885-4f7e-a5cf-5ab243afe2df,leasing.coupons,available,3.99,,high,low,7,name.com,,,
-45e0cb32-1b96-4f61-9411-48e3c9aa1fc7,enemy.coupons,available,2.98,59.98,medium,low,5,namecheap,,,15/09/2026 01:14
+45e0cb32-1b96-4f61-9411-48e3c9aa1fc7,enemy.coupons,available,5.99,54.99,low,low,5,namesilo,,,19/09/2026 10:02
 a5f0cc30-aea1-4940-bf35-0bd95fa60677,anuran.coupons,available,2.98,59.98,low,low,6,namecheap,,,05/08/2026 20:48
 33c53243-4144-4e0a-8ff5-24f7bafd314c,goodandproper.coupons,available,3.99,,medium,low,15,name.com,,,
 3d2c41d3-30d4-4cbe-bf09-d8a96f36ff64,loud.coupons,available,3.99,,medium,low,4,name.com,,,
@@ -45,7 +45,7 @@ a6ece1d8-487c-4b33-af2d-121e86725034,nebraska.coupons,premium,78.54,78.54,medium
 b148d37f-660b-4af4-8d33-9a5f1737cd80,courage.coupons,available,3.99,,high,low,7,name.com,,,
 46255de8-25f3-49e1-b159-e0145246f1fd,artless.coupons,available,2.98,59.98,low,low,7,namecheap,,,06/08/2026 23:47
 be7ed11a-62f2-475f-a787-739628895780,havesecondthoughts.coupons,available,3.99,,medium,low,20,name.com,,,
-b26b3e76-d8a9-431c-a3a9-acb31a6bd282,integrate.coupons,available,3.99,,high,low,9,name.com,,,
+b26b3e76-d8a9-431c-a3a9-acb31a6bd282,integrate.coupons,available,2.98,59.98,medium,low,9,namecheap,,,20/09/2026 03:11
 552ee721-6651-43cb-899b-7ad3a52fd152,adroit.coupons,available,3.99,71.99,high,low,6,name.com,,,
 e6957bc6-6b7f-4709-b49f-340799d471f9,house.coupons,premium,242,242,high,medium,5,namesilo,,,
 187436bd-cba3-44d9-9215-9de132f1193b,moneyisnoobject.coupons,available,3.99,,medium,low,18,name.com,,,
@@ -76,18 +76,18 @@ b121c285-fd7d-4d8b-94ae-c694665b5da8,lunchmeat.coupons,available,3.99,,high,low,
 bbae1606-1b98-4ea3-8066-9b383983c903,approval.coupons,available,2.98,59.98,low,low,8,namecheap,,,08/09/2026 15:18
 f31ca447-20af-410a-81d3-ee3913763270,oldman.coupons,available,3.99,,medium,low,7,name.com,,,
 8b269ad4-095a-488d-bff3-b3ebcf0fbc40,totally.coupons,available,3.99,71.99,high,low,7,name.com,,,
-20a87f35-ac39-4481-aaf8-e164c6f9874b,HIPAA.coupons,available,3.99,,medium,low,5,name.com,,,
-71d24a78-42d9-4f33-987f-bd115053ba10,NYT.coupons,available,3.99,,high,low,3,name.com,,,
+20a87f35-ac39-4481-aaf8-e164c6f9874b,hipaa.coupons,available,3.99,,medium,low,5,name.com,,,
+71d24a78-42d9-4f33-987f-bd115053ba10,nyt.coupons,available,3.99,,high,low,3,name.com,,,
 7465768a-abba-4dd2-ae7f-1350c6939555,buttonlike.coupons,available,2.98,59.98,low,low,10,namecheap,,,09/08/2026 03:39
 4eec34f3-f037-48eb-8dda-3a32ab855b7f,thankyoucard.coupons,available,3.99,,low,low,14,name.com,,,
 424bbdba-5eb0-4437-b161-ddccb101cab9,hurt.coupons,available,3.99,,medium,low,4,name.com,,,
-551d5bde-b2f2-44c6-b80a-11140aa09114,just.coupons,resell,,,high,medium,4,"Sav.com, LLC - 34",03/01/2026 15:15,03/01/2027 15:15,
+551d5bde-b2f2-44c6-b80a-11140aa09114,just.coupons,resell,,,high,medium,4,"Sav.com, LLC - 34",03/01/2026 15:15,03/01/2027 15:15,18/09/2026 16:18
 524510eb-d052-4f45-a7e1-746753f52d1a,critique.coupons,available,3.99,,high,low,8,name.com,,,
 7031c539-3d0a-4ef7-a974-fbae4b7d046c,embrace.coupons,available,3.99,,high,low,7,name.com,,,
-b0dd66ba-c18c-4359-8317-dc0c32a58dae,goDutch.coupons,available,3.99,,medium,low,8,name.com,,,
+b0dd66ba-c18c-4359-8317-dc0c32a58dae,godutch.coupons,available,3.99,,medium,low,8,name.com,,,
 b51f7683-d2c2-4f09-9fab-82a3ce8922b2,quitea.coupons,available,3.99,,medium,low,7,name.com,,,
 bcba38ae-349f-4b6a-8bac-9a4541a03fcf,dilute.coupons,available,2.98,59.98,low,low,6,namecheap,,,
-faaf6c86-b518-4f6a-ba18-e0caa8c5c60a,Wikimedia.coupons,available,,,low,low,9,,,,
+faaf6c86-b518-4f6a-ba18-e0caa8c5c60a,wikimedia.coupons,available,,,low,low,9,,,,
 33552dc5-d35f-4dbd-98e5-5a7f007f40c6,backhanded.coupons,available,2.98,59.98,low,low,10,namecheap,,,08/08/2026 05:38
 aceab428-edc1-4890-bf7a-92d1966d40ca,shoeless.coupons,available,2.98,59.98,low,low,8,namecheap,,,08/08/2026 19:04
 5cfa32fc-09d5-4b68-b027-02c11bfc6fe8,oncemore.coupons,available,2.98,59.98,low,low,9,namecheap,,,13/09/2026 18:09
@@ -96,7 +96,7 @@ ab4b0e10-fd60-41bf-bc81-590951a27b9d,island.coupons,available,3.99,,high,low,6,n
 add6ad1f-96f1-4446-9310-9129c059a663,sulphurous.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 eea08097-c512-4411-8f07-c9f0da124529,exhaustion.coupons,available,3.99,,medium,low,10,name.com,,,
 7025767d-8baa-40d2-9a14-941e7e9378e3,winterblues.coupons,available,3.99,,low,low,12,name.com,,,
-7c4ddfe9-0d57-4de5-ad88-5c3da7080759,savings.coupons,premium,854,854,high,low,7,namesilo,,,
+7c4ddfe9-0d57-4de5-ad88-5c3da7080759,savings.coupons,premium,1040,1040,medium,low,7,namecheap,,,19/09/2026 13:58
 9983e9ae-95aa-48e0-adec-001537036a31,spherical.coupons,available,2.98,59.98,low,low,9,namecheap,,,08/08/2026 10:21
 76df4288-e436-4761-88b9-944f69ca0a05,salary.coupons,available,3.99,,high,low,6,name.com,,,
 8a9c638c-fa9c-4278-a420-ad74f75bd1c1,asiatic.coupons,available,2.98,59.98,low,low,7,namecheap,,,07/08/2026 02:29
@@ -111,7 +111,7 @@ e7d46390-feb3-481e-bfa5-92cfcc3a5745,ladder.coupons,available,3.99,,high,low,6,n
 cf1d463e-3b4b-44b4-9d68-94a07ec28718,astute.coupons,available,3.99,,high,low,6,name.com,,,
 a644decd-a916-42b1-9c90-7e143ede2b2d,united.coupons,available,3.99,,high,medium,6,name.com,,,
 a20bd43c-741e-413c-8a46-b23b9b8cddd1,developing.coupons,available,3.99,71.99,high,low,10,name.com,,,
-d81da3c9-3e23-4a52-a592-794831c7cc8b,startup.coupons,premium,512,512,medium,medium,7,namesilo,,,14/09/2026 02:21
+d81da3c9-3e23-4a52-a592-794831c7cc8b,startup.coupons,premium,512,512,medium,low,7,namesilo,,,19/09/2026 08:57
 2648bdbf-1627-4953-921e-205e74dfdc85,aplacental.coupons,available,2.98,59.98,low,low,10,namecheap,,,06/08/2026 00:24
 ca317006-0c13-4bd7-8314-f431ee124406,takecareof.coupons,available,3.99,,medium,low,12,name.com,,,
 02bf666b-be9c-48a7-8e5b-0de98537da7c,pleased.coupons,available,3.99,,high,low,7,name.com,,,
@@ -122,7 +122,7 @@ b63348a5-c9bf-4dfb-ac72-a82f2640e8d2,separation.coupons,available,3.99,,medium,l
 443c3b47-c8ce-497b-ab79-6263ecd1cd0f,corona.coupons,available,,,high,low,6,,,,
 119981b9-f3cf-4616-90da-a35f3e96e322,thing.coupons,available,3.99,,high,low,5,name.com,,,
 9a6cf8af-cb4f-4f5e-8300-edca59564bc1,bolster.coupons,available,3.99,,medium,low,7,name.com,,,
-0b01e198-ee76-4b81-a36a-b674e51c4143,Iamafraidofthis.coupons,available,3.99,,medium,low,19,name.com,,,
+0b01e198-ee76-4b81-a36a-b674e51c4143,iamafraidofthis.coupons,available,3.99,,medium,low,19,name.com,,,
 1277927e-55a3-4d42-83cc-32469788375c,accretive.coupons,available,2.98,59.98,low,low,9,namecheap,,,
 c6087cce-af32-4de0-a919-5cfeddbf7bb1,minuscule.coupons,available,3.99,,high,low,9,name.com,,,
 256d8d85-f312-4abf-a5e3-9935b476a972,tillable.coupons,available,2.98,59.98,low,low,8,namecheap,,,06/08/2026 11:25
@@ -137,12 +137,12 @@ eb4f23e4-e561-45fd-8259-99267128beb8,came.coupons,available,3.99,,high,low,4,nam
 970f35bf-a8ac-45bb-afb0-1f78d30b093e,supplies.coupons,premium,85.8,85.8,low,low,8,namecheap,,,
 ece90ee0-ccec-4558-8482-6f9237137365,disneyland.coupons,available,3.99,,high,low,10,name.com,,,
 0cac49d7-8189-4d41-ac6d-24c2924b6cbc,surprising.coupons,available,3.99,,high,low,10,name.com,,,
-db14db43-8386-4ea6-a193-16b5b2e8c13f,rightaway.coupons,available,2.98,59.98,low,low,10,namecheap,,,14/09/2026 10:46
+db14db43-8386-4ea6-a193-16b5b2e8c13f,rightaway.coupons,available,5.99,54.99,low,low,10,namesilo,,,19/09/2026 11:46
 9a452f01-75be-47e5-85ee-c780e63d1967,pinging.coupons,available,3.99,,high,low,7,name.com,,,
 bcc2b6df-6ee5-4aa7-a6e6-626732dbf17d,merely.coupons,available,3.99,,medium,low,6,name.com,,,
 ca2e13fa-7f94-42a4-b0a3-8cf30dbc42a9,seasick.coupons,available,2.98,59.98,low,low,7,namecheap,,,
 2d21cc8b-0fca-4020-8d99-0fe165b015c1,bringit.coupons,available,3.99,,high,low,8,name.com,,,
-3e6873bd-4d2b-4df0-a072-6cdb09ffaeb3,Skype.coupons,available,,,high,low,5,,,,
+3e6873bd-4d2b-4df0-a072-6cdb09ffaeb3,skype.coupons,available,,,high,low,5,,,,
 1f195a26-9175-4cf6-bc3c-7c7446edf1d5,getting.coupons,available,3.99,,high,low,7,name.com,,,
 a1f49bbb-2f51-49a7-b233-cabe12cc6a70,psychic.coupons,available,3.99,,high,low,7,name.com,,,
 f5f7ff9c-8440-4b37-836b-bab32ebbc636,finalyearproject.coupons,available,3.99,,high,low,18,name.com,,,
@@ -163,7 +163,7 @@ a27c595d-39d3-40b5-8bf8-45db60417702,cheesepizza.coupons,available,3.99,,high,lo
 b8cb6247-0152-4842-b996-885f03be121c,juice.coupons,available,3.99,,high,low,5,name.com,,,
 50c2b393-44d3-490e-8da6-1631cf7a3b8d,bytheway.coupons,available,3.99,,medium,low,10,name.com,,,
 a0445613-3846-43c9-a846-a87bb78af3ed,criticise.coupons,available,3.99,,medium,low,9,name.com,,,
-6dd697d6-87d5-4e40-8ec5-d57639dc38c5,MiddleAges.coupons,available,3.99,,medium,low,11,name.com,,,
+6dd697d6-87d5-4e40-8ec5-d57639dc38c5,middleages.coupons,available,3.99,,medium,low,11,name.com,,,
 d25047af-ccfe-4a2a-a454-f987560e4276,becalmed.coupons,available,2.98,59.98,low,low,8,namecheap,,,09/08/2026 06:03
 4d95c292-2db4-4c48-8ab3-096076b73a1a,attired.coupons,available,2.98,59.98,low,low,7,namecheap,,,06/08/2026 04:47
 fc3a7cc4-f41e-4e3a-8ddf-d8a84ac4aa2b,shoplift.coupons,available,3.99,,high,low,8,name.com,,,
@@ -184,7 +184,7 @@ d33ef70f-058a-4531-9b92-f8617d60bebc,inherent.coupons,available,3.99,,medium,low
 8f695b77-09f7-49fe-914b-c1d9215a75fa,sevenup.coupons,available,3.99,,high,low,8,name.com,,,
 14a03f26-ecab-4e76-a714-d77a509ecd70,putterabout.coupons,available,3.99,,low,low,12,name.com,,,
 2af5942e-1e13-48fe-96d6-2285492dad4a,numbers.coupons,available,3.99,,high,low,7,name.com,,,
-0f9a64b1-1598-4942-80e0-ff2f78e6ff98,mixed.coupons,available,2.98,59.98,low,low,5,namecheap,,,15/09/2026 02:59
+0f9a64b1-1598-4942-80e0-ff2f78e6ff98,mixed.coupons,available,5.99,54.99,low,low,5,namesilo,,,19/09/2026 12:23
 1f11b22b-1404-4a0c-bd81-de1be30da26d,valueable.coupons,available,3.99,,high,low,9,name.com,,,
 d453a6a7-179a-47f0-8207-aeb313782b88,sanmarino.coupons,available,,,high,low,10,,,,
 d414189b-d19c-4a48-8092-46738c4f7a91,matched.coupons,available,3.99,,high,low,7,name.com,,,
@@ -203,14 +203,14 @@ ed497a7a-02a0-4761-8321-b514d9b97c12,waterfountain.coupons,available,3.99,,high,
 a1551ebc-564b-4b22-aa9d-4d28144accef,middleage.coupons,available,3.99,,medium,low,10,name.com,,,
 c7879bef-b197-4bee-8e2b-c0958afe774b,profitmargin.coupons,available,3.99,,high,low,13,name.com,,,
 71e74b39-f083-49b0-b11e-d42381a17fc7,cassette.coupons,available,3.99,,medium,low,8,name.com,,,
-5347e16c-1a76-452f-a51c-4323af2fa85a,intruth.coupons,available,2.98,59.98,low,low,8,namecheap,,,15/09/2026 07:18
-1cea6bcd-ae33-4fee-a4f5-e37a3cf025c6,broadcast.coupons,available,3.99,,high,low,9,name.com,,,
+5347e16c-1a76-452f-a51c-4323af2fa85a,intruth.coupons,available,2.98,59.98,low,low,8,namecheap,,,19/09/2026 10:53
+1cea6bcd-ae33-4fee-a4f5-e37a3cf025c6,broadcast.coupons,available,2.98,59.98,medium,low,9,namecheap,,,19/09/2026 05:03
 79dedb88-7105-40b0-969b-d9f721593974,superbly.coupons,available,3.99,,medium,low,8,name.com,,,
 fb06fde9-7da4-4048-8ed4-2720ab906396,absurd.coupons,available,2.98,59.98,low,low,6,namecheap,,,
 d8cce9d1-1e72-4f14-820b-4d6edee77173,male.coupons,available,3.99,,medium,low,4,name.com,,,
 fa0c78d4-dd54-4ecd-aaf5-cf8a58557d2b,notime.coupons,available,3.99,,low,low,7,name.com,,,
 61152a6c-70c3-4c55-b562-6e2840455402,boring.coupons,available,3.99,,medium,low,6,name.com,,,
-4b88e0ab-0c46-497b-ba4a-dd1f2774e034,GodSavetheKing.coupons,available,3.99,,high,low,17,name.com,,,
+4b88e0ab-0c46-497b-ba4a-dd1f2774e034,godsavetheking.coupons,available,3.99,,high,low,17,name.com,,,
 ef701946-e5ea-45b1-bddd-8134aa549d83,alkaliser.coupons,available,2.98,59.98,low,low,9,namecheap,,,
 23768ade-7c03-4b2f-9ef1-4064f761a4c2,bawdy.coupons,available,2.98,59.98,low,low,5,namecheap,,,09/08/2026 02:05
 22d41771-0717-4d85-b191-3df58a362188,lowly.coupons,available,2.98,59.98,low,low,5,namecheap,,,08/08/2026 21:38
@@ -234,7 +234,7 @@ bb3a2d45-3e68-4215-a155-d3c2f6cdd29b,xxxvi.coupons,available,2.98,59.98,low,low,
 73440e1e-95ea-4275-a78b-9cee0ddf5886,backward.coupons,available,3.99,,high,low,8,name.com,,,
 445ec8a7-ae31-4048-809c-21b7b81ba8f8,quivive.coupons,available,2.98,59.98,low,low,8,namecheap,,,
 b50a3ba5-0de2-4d0f-b508-c01198a1472d,childsupport.coupons,available,3.99,,medium,low,13,name.com,,,
-12d8e06e-8c3b-4fd6-ac59-4df9b7095115,connected.coupons,available,2.98,59.98,medium,medium,9,namecheap,,,13/09/2026 03:43
+12d8e06e-8c3b-4fd6-ac59-4df9b7095115,connected.coupons,available,5.99,54.99,low,low,9,namesilo,,,19/09/2026 11:24
 c8f28eec-7c6c-4280-b1f7-728c5abe84c2,qualification.coupons,available,3.99,,medium,low,13,name.com,,,
 9931f2aa-4f0f-4d5c-854a-d28b656b499e,costly.coupons,available,3.99,71.99,medium,low,6,name.com,,,
 a67d17db-0499-462f-8a27-3599997b469c,avocado.coupons,available,3.99,,high,low,7,name.com,,,
@@ -255,7 +255,7 @@ d71b4b08-ecb6-4c6a-a796-330a0f5451d8,dogshot.coupons,available,3.99,,high,low,8,
 9c7e903c-f48c-4cc6-9532-5440bcea8fcd,allweathertyre.coupons,available,3.99,,high,low,16,name.com,,,
 9b40f682-8bf8-4989-a650-17b7d48dac1b,answerable.coupons,available,3.99,,high,low,10,name.com,,,
 b275369d-047b-4ee7-a254-174020682835,acrobatic.coupons,available,2.98,59.98,low,low,9,namecheap,,,
-23dab06f-2a7e-4975-8080-bde6eb9863c7,WestEnd.coupons,available,3.99,,medium,low,8,name.com,,,
+23dab06f-2a7e-4975-8080-bde6eb9863c7,westend.coupons,available,3.99,,medium,low,8,name.com,,,
 12b11ed8-5878-4f27-9c4d-5d76862bdc81,trillionaire.coupons,available,3.99,,high,low,12,name.com,,,
 75fc9453-035e-4faf-b17d-faf9d878e5bc,arranged.coupons,available,3.99,,high,low,8,name.com,,,
 98249220-6f34-4163-9ccc-457b383534f9,sovereign.coupons,available,3.99,,high,medium,9,name.com,,,
@@ -282,7 +282,7 @@ a62c7966-6664-4459-81a0-e5e940223bce,threesome.coupons,available,2.98,59.98,low,
 dc9c2d73-767a-4fa0-9707-8069af1854f4,daring.coupons,available,2.98,59.98,medium,low,6,namecheap,,,07/08/2026 21:39
 79dc5345-8994-43ec-8099-7ca9c95fe124,smiling.coupons,available,3.99,,high,low,7,name.com,,,
 0418e903-b118-4a54-9fea-f7f0ffd23ce5,engine.coupons,available,2.98,59.98,medium,low,6,namecheap,,,08/09/2026 12:18
-7c295d34-cf06-46fe-afd2-b1fe43ecd22d,school.coupons,premium,11250,,high,low,6,name.com,,,
+7c295d34-cf06-46fe-afd2-b1fe43ecd22d,school.coupons,premium,12420,12420,medium,low,6,namesilo,,,20/09/2026 03:02
 6bed738b-dc80-4fc0-94e2-9b22c2b34df4,cosmetic.coupons,available,3.99,71.99,high,low,8,name.com,,,
 8f6b7b0f-8e87-493d-a4d3-65d51b2b7acf,comprise.coupons,available,3.99,,high,low,8,name.com,,,
 deb3945e-86d5-4380-9f61-7d16b45d85fa,perhaps.coupons,available,3.99,,high,low,7,name.com,,,
@@ -301,7 +301,7 @@ fd039ac3-7bd6-4b6b-ab69-88c65857dd88,attorney.coupons,available,3.99,,high,low,8
 37ba5735-78ae-4d49-b79b-513f77b32a5a,reliable.coupons,available,3.99,,high,low,8,name.com,,,
 c035faf0-85bd-430a-9ad6-9dddc2210591,halo.coupons,available,3.99,,high,medium,4,name.com,,,
 87e67f3d-4fd8-4e64-a128-9ff89faed774,zestful.coupons,available,2.98,59.98,low,low,7,namecheap,,,08/08/2026 19:51
-3fdc7d90-42db-40d1-8dfb-39cc839c47a0,health.coupons,premium,1040,1040,high,medium,6,namecheap,,,
+3fdc7d90-42db-40d1-8dfb-39cc839c47a0,health.coupons,premium,854,854,medium,low,6,namesilo,,,19/09/2026 10:54
 cef60f2d-1ce2-43c9-8db8-0d5d2202538f,motoroil.coupons,available,3.99,,medium,low,9,name.com,,,
 477e3ea5-8ec2-47db-a78e-62a8594e2e79,adsorbable.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 95a34a67-f693-4daa-87a8-18e46f5d5a96,navy.coupons,available,3.99,,high,low,4,name.com,,,
@@ -335,7 +335,7 @@ e7f8cce7-1917-41d1-84b4-ab8c2663d07c,woodsy.coupons,available,2.98,59.98,low,low
 382305a6-51e4-47a7-ae0d-360b73436c34,patent.coupons,available,2.98,59.98,medium,low,6,namecheap,,,06/08/2026 05:19
 4eda426e-f4c9-42da-8eee-1952bf8d247b,presentation.coupons,available,3.99,,medium,low,12,name.com,,,
 18c7e381-e8f8-47d4-83b6-6839771f2919,funny.coupons,available,3.99,,high,low,5,name.com,,,
-cf1b25d1-86cb-4b3a-997a-c65372db7c35,StPauls.coupons,available,3.99,,medium,low,8,name.com,,,
+cf1b25d1-86cb-4b3a-997a-c65372db7c35,stpauls.coupons,available,3.99,,medium,low,8,name.com,,,
 93a37760-c767-4d9f-be7a-54ed9fd63717,achromatic.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 6e3d924b-e251-4098-bc12-68adc1829f94,abroach.coupons,available,2.98,59.98,low,low,7,namecheap,,,
 59277ff0-6463-4cc9-964b-aec39a48086a,paying.coupons,available,3.99,,high,low,6,name.com,,,
@@ -348,7 +348,7 @@ df5a4ca9-d097-496c-aef0-0cc5ff5f9fab,antitumour.coupons,available,3.99,,high,low
 99612968-f83f-436c-9c06-715adbfc27c4,howdo.coupons,available,3.99,,medium,low,6,name.com,,,
 809cca78-86ec-4423-9401-6b150df16501,globose.coupons,available,2.98,59.98,low,low,7,namecheap,,,08/08/2026 10:00
 0ec9bb6d-7ffa-46dd-856a-5da9834b0981,stations.coupons,available,3.99,,medium,low,8,name.com,,,
-dfa82b95-f6ed-49ab-8d78-d3e9d6f80fe7,Californiakilowatt.coupons,available,3.99,,high,low,19,name.com,,,
+dfa82b95-f6ed-49ab-8d78-d3e9d6f80fe7,californiakilowatt.coupons,available,3.99,,high,low,19,name.com,,,
 b9ac22ac-2d5e-4970-840c-e262cb4a27f0,asshole.coupons,available,2.98,59.98,low,low,7,namecheap,,,08/08/2026 23:24
 3bdd16d5-0020-499b-bd3a-bcd2c0821364,antifungal.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 5c3cc42d-a793-4633-9b84-d778158d1780,reserve.coupons,available,2.98,59.98,medium,low,7,namecheap,,,06/08/2026 09:16
@@ -369,11 +369,11 @@ ec64e2d5-aac8-458e-a16b-bc5cf0273672,anger.coupons,available,3.99,,high,low,5,na
 7f0c6d78-9007-4846-9ca3-19d97a30f9ce,romantic.coupons,available,3.99,,high,low,8,name.com,,,
 c2ebd3db-0529-4340-b3f1-a87b0677d894,allnight.coupons,available,2.98,59.98,low,low,9,namecheap,,,
 e282c0b9-c657-4802-8039-23286d123c5e,aucourant.coupons,available,2.98,59.98,low,low,10,namecheap,,,
-713fa673-b7b0-4e47-a699-57d09d7279c5,PlayStation.coupons,available,,,high,low,11,,,,
+713fa673-b7b0-4e47-a699-57d09d7279c5,playstation.coupons,available,,,high,low,11,,,,
 17280327-ad1a-46d2-9b47-3263a0723d4e,christian.coupons,premium,78.54,78.54,high,medium,9,namesilo,,,
 765dda60-9399-47cd-b7ba-c435836c39c2,bearable.coupons,available,2.98,59.98,low,low,8,namecheap,,,09/08/2026 04:27
 a42c6f3e-4e11-4b1f-9482-ee496bfe697c,drivinglicense.coupons,available,3.99,,high,low,15,name.com,,,
-eaa6ba7a-06ab-4b63-880d-be0e49ec19c6,complete.coupons,available,2.98,59.98,medium,low,8,namecheap,,,15/09/2026 06:11
+eaa6ba7a-06ab-4b63-880d-be0e49ec19c6,complete.coupons,available,2.98,59.98,medium,low,8,namecheap,,,19/09/2026 19:02
 67e5ff00-d637-4c30-8d03-2bdf1a8c6691,nowhere.coupons,available,3.99,,high,low,7,name.com,,,
 5de48a9a-198b-4142-8299-3a5b884b0e08,acinous.coupons,available,2.98,59.98,low,low,7,namecheap,,,
 14a30407-457a-41cf-96ee-9f82c8a0febf,sciences.coupons,available,3.99,,low,low,8,name.com,,,
@@ -381,7 +381,7 @@ ca625bfa-61af-42ef-82f2-e466d438a52b,basilican.coupons,available,2.98,59.98,low,
 035f612d-5201-4fb0-b768-a5231a8532cb,terms.coupons,available,3.99,,high,low,5,name.com,,,
 6869f46c-2f06-4b05-a61c-d7e8d5a366bc,definite.coupons,available,3.99,71.99,high,low,8,name.com,,,
 18f058e1-dd74-40f1-8d80-6736d26848ff,splithairs.coupons,available,3.99,,low,low,11,name.com,,,
-9238d439-8f9b-4171-94ba-9ac6de651136,MiddleEastern.coupons,available,3.99,,medium,low,14,name.com,,,
+9238d439-8f9b-4171-94ba-9ac6de651136,middleeastern.coupons,available,3.99,,medium,low,14,name.com,,,
 ce094b48-9cf2-47a4-aa8c-a854c32bee53,sacked.coupons,available,3.99,71.99,medium,low,6,name.com,,,
 e7c7deff-f1d9-4494-b06d-d26922ae4c73,auric.coupons,available,2.98,59.98,low,low,5,namecheap,,,07/08/2026 17:36
 2388688c-62fa-4098-a217-b169fc7b438c,clustered.coupons,available,2.98,59.98,low,low,9,namecheap,,,
@@ -391,12 +391,11 @@ d45ee1dc-bb01-4701-87e1-2cc5c25395ea,fourth.coupons,available,2.98,59.98,low,low
 c58a6ed5-56fc-4c59-b783-5634ac0d8ff8,scream.coupons,available,3.99,,high,low,6,name.com,,,
 a590ef82-7b9e-4b4f-a247-f0aa54d4f9ec,dauntless.coupons,available,3.99,,medium,low,9,name.com,,,
 6a41aac6-d5d8-4c73-a5f3-f3cb11510e80,march.coupons,available,,,high,low,5,,,,
-871c02e2-eb29-4a0d-882e-1ffd28b9311f,NewRochelle.coupons,available,3.99,,low,low,12,name.com,,,
+871c02e2-eb29-4a0d-882e-1ffd28b9311f,newrochelle.coupons,available,3.99,,low,low,12,name.com,,,
 86032323-8a77-4417-98c7-7fa1ce61e06e,granddaughter.coupons,available,3.99,,high,low,13,name.com,,,
 6323ac3b-dc30-4ca6-a71e-1f0289c1201d,countless.coupons,available,3.99,71.99,high,low,9,name.com,,,
 f813ea2b-4ff8-40fd-ad65-6a46c3e67452,worn.coupons,available,3.99,,medium,low,4,name.com,,,
 ec9bcda7-d4c1-4132-a447-1e1e58279380,worthwhile.coupons,available,3.99,,high,low,10,name.com,,,
-68417758-023b-4a43-9e9a-7b0e617c7b7e,Nutella.coupons,available,,,high,low,7,,,,
 4eecf89e-313e-4010-8e63-632aaaa75db6,documents.coupons,available,3.99,,medium,low,9,name.com,,,
 cce3fe88-a8c5-4332-8900-303fda3e26ed,nettlesome.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 107b645c-f485-4a5f-a8cb-96196cb307a0,whatnot.coupons,available,3.99,,low,low,8,name.com,,,
@@ -407,12 +406,12 @@ d772cb62-8b6e-4057-af83-4a06973beaba,communicate.coupons,available,3.99,,high,lo
 f4a59c40-59c3-4c4b-950e-8628858fc096,inplace.coupons,available,3.99,,medium,low,8,name.com,,,
 9be11157-9b1c-4559-945a-852ce6babbcf,advisor.coupons,available,3.99,,high,low,7,name.com,,,
 31da9784-2e9d-41f1-baac-f15cff34692f,reebok.coupons,available,3.99,,high,low,6,name.com,,,
-55256b83-ccf3-4bda-8854-6d3fd71bd985,schoolbook.coupons,available,2.98,59.98,medium,low,11,namecheap,,,14/09/2026 19:18
+55256b83-ccf3-4bda-8854-6d3fd71bd985,schoolbook.coupons,available,5.99,54.99,low,low,11,namesilo,,,19/09/2026 07:03
 a7da0891-ccf9-418e-a4b9-dc0497075c3c,peaking.coupons,available,3.99,,high,low,7,name.com,,,
 07ec24c7-7338-43b0-a6fd-e4045145bfa0,impulse.coupons,available,3.99,,high,low,7,name.com,,,
 13356e94-571e-480b-be56-3a7b03698599,properties.coupons,available,3.99,,medium,low,10,name.com,,,
 2c645434-720c-4df3-ac5c-a48399cd8883,goodasnew.coupons,available,3.99,,high,low,11,name.com,,,
-e06ff894-2417-4ece-afb8-ada7dc7b9116,devices.coupons,available,3.99,,high,low,7,name.com,,,
+e06ff894-2417-4ece-afb8-ada7dc7b9116,devices.coupons,available,2.98,59.98,medium,low,7,namecheap,,,19/09/2026 10:40
 b4ff86bc-f671-4b47-a422-ead211a0266e,purplenotice.coupons,available,3.99,,medium,low,13,name.com,,,
 ff298661-3463-4023-b6ff-1ed24e975473,clickbait.coupons,available,3.99,,high,low,9,name.com,,,
 35a6c05f-8d1b-4bd3-9516-f3be0bf39ace,invent.coupons,available,3.99,,high,low,6,name.com,,,
@@ -435,7 +434,7 @@ f82e6f3f-89ad-4e53-8ad9-de93f0754ea2,awnless.coupons,available,2.98,59.98,low,lo
 8303501b-80b2-40c6-93b4-84de81040a6e,revised.coupons,available,3.99,,medium,low,7,name.com,,,
 3f7abca1-69b4-4d6b-aee8-2dafa94422d2,tetrad.coupons,available,2.98,59.98,low,low,6,namecheap,,,
 0926d13d-c08d-43fe-9cc6-623114127e38,callcentre.coupons,available,3.99,,medium,low,11,name.com,,,
-84bb94e2-4846-4c5b-b0c4-e949bf2d743b,nontoxic.coupons,available,2.98,59.98,low,low,8,namecheap,,,07/08/2026 13:59
+84bb94e2-4846-4c5b-b0c4-e949bf2d743b,nontoxic.coupons,available,2.98,59.98,medium,low,8,namecheap,,,18/09/2026 21:11
 8789b786-f0f7-4b83-ae1e-20b4b511c8c8,aweary.coupons,available,2.98,59.98,low,low,6,namecheap,,,08/08/2026 00:39
 cfa3e566-e7b2-4d03-ac8b-4bdc89ba1e38,paste.coupons,available,3.99,,high,low,5,name.com,,,
 0b93fbe6-517a-45cc-9ef2-14b634fe7e13,lithuania.coupons,available,,,medium,low,9,,,,
@@ -443,7 +442,7 @@ cfa3e566-e7b2-4d03-ac8b-4bdc89ba1e38,paste.coupons,available,3.99,,high,low,5,na
 72a7ec7e-1146-4862-860f-4b6b3f3b3729,expended.coupons,available,3.99,,medium,low,8,name.com,,,
 62e7b23b-b198-4f3b-ae3f-48b9a0c5e227,workfare.coupons,available,3.99,,low,low,8,name.com,,,
 81be932d-9309-4c9a-945f-74dc4fce3ad6,sympathy.coupons,available,3.99,,high,low,8,name.com,,,
-59ea25ca-be30-48fd-8397-fc3442057b28,research.coupons,available,3.99,,high,low,8,name.com,,,
+59ea25ca-be30-48fd-8397-fc3442057b28,research.coupons,available,2.98,59.98,medium,low,8,namecheap,,,20/09/2026 02:40
 39ca9541-c9b0-4bad-8877-e2e9836f11fd,confide.coupons,available,3.99,,high,low,7,name.com,,,
 a8c8b83f-9acc-4b0a-83ae-2d1411f1c7ae,addicted.coupons,available,3.99,71.99,high,low,8,name.com,,,
 ce4476d5-f521-4503-89c7-1da61e1d47a7,acting.coupons,available,3.99,71.99,high,low,6,name.com,,,
@@ -469,7 +468,7 @@ a3b3be4b-5c2b-4ff3-99a9-c5238e247c1e,ratter.coupons,available,2.98,59.98,low,low
 c54e841f-7879-41ac-bd3d-10da271f2dc3,eremitical.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 164fab54-ceb3-4531-be55-901df2c44544,humanbeing.coupons,available,3.99,,high,low,11,name.com,,,
 727ce09a-dd63-45cd-8b92-2266dee7cd3c,thehell.coupons,available,3.99,,high,low,8,name.com,,,
-a924876e-5edc-40ad-87bb-02e0ba1ac41e,WorldWideWeb.coupons,available,3.99,,low,low,14,name.com,,,
+a924876e-5edc-40ad-87bb-02e0ba1ac41e,worldwideweb.coupons,available,3.99,,low,low,14,name.com,,,
 fd441a83-6d1c-4af9-be8c-febf0f256eff,allantoid.coupons,available,2.98,59.98,low,low,9,namecheap,,,
 e029446d-6a9a-442f-9619-d5b0ef0fd524,publicized.coupons,available,3.99,,medium,low,10,name.com,,,
 bf3d1d02-ef59-441f-a9da-b47c5181418d,bluecheese.coupons,available,3.99,,high,low,11,name.com,,,
@@ -495,8 +494,8 @@ c038dad6-627b-4bd4-a3b0-de822ca04e13,smileyface.coupons,available,3.99,,high,low
 b423763b-085f-4a03-bf35-cfdece95c333,generators.coupons,available,3.99,,medium,low,10,name.com,,,
 dfac4e93-1fbc-4ea4-bf70-9d85c3854767,alate.coupons,available,2.98,59.98,low,low,5,namecheap,,,
 0d96c0db-85d2-43b4-a5e7-a920cc0b67a4,their.coupons,available,3.99,,low,low,5,name.com,,,
-afb8e675-ea55-4f1d-aa9f-a11fc8b9f901,panel.coupons,available,2.98,59.98,medium,low,5,namecheap,,,14/09/2026 02:59
-d6441d59-d563-45d6-b356-a9294a25bfa7,Ithinkso.coupons,available,3.99,,medium,low,10,name.com,,,
+afb8e675-ea55-4f1d-aa9f-a11fc8b9f901,panel.coupons,available,5.99,54.99,low,low,5,namesilo,,,19/09/2026 11:40
+d6441d59-d563-45d6-b356-a9294a25bfa7,ithinkso.coupons,available,3.99,,medium,low,10,name.com,,,
 29087560-3c3b-47e4-a179-80d6a516678f,baldfaced.coupons,available,2.98,59.98,low,low,10,namecheap,,,08/08/2026 09:26
 89ed868b-bf19-43a4-86b5-adf5b92190f8,condolences.coupons,available,3.99,,high,low,11,name.com,,,
 429ba9a0-6c1b-41dc-8627-0f6cef3305aa,smuggled.coupons,available,3.99,,medium,low,8,name.com,,,
@@ -506,7 +505,7 @@ bc3cb384-6b0d-4d11-a0e9-3c2c295e5616,heard.coupons,available,3.99,,medium,low,5,
 8be2bd1f-3ebe-4d84-a257-abe2a89bbb8a,purpose.coupons,available,3.99,,high,low,7,name.com,,,
 34867a82-f92e-4c1d-be7f-1cd5880d588a,steal.coupons,available,3.99,,high,low,5,name.com,,,
 e447e3f8-6095-49aa-a166-3a887cf4b1c9,pies.coupons,available,3.99,,medium,low,4,name.com,,,
-e1bc4264-d02e-4763-8109-d862470a6919,Westcott.coupons,available,3.99,,low,low,8,name.com,,,
+e1bc4264-d02e-4763-8109-d862470a6919,westcott.coupons,available,3.99,,low,low,8,name.com,,,
 90466ed7-457c-46af-8648-18052cc617bf,preview.coupons,available,3.99,,high,low,7,name.com,,,
 1cf90364-34ce-4d72-b418-c34f6d98d417,cake.coupons,available,3.99,,high,low,4,name.com,,,
 1da5544a-0d1b-4424-8ec1-0a6c420b55d5,fruitvegetable.coupons,available,3.99,,high,low,15,name.com,,,
@@ -521,7 +520,7 @@ a881c3a0-1b79-48b5-9ec9-283f4c7f6f41,engagementring.coupons,available,3.99,,high
 a0dcca63-7a65-4484-bc82-445e0572355d,susceptible.coupons,available,3.99,,high,low,11,name.com,,,
 4e732180-4445-44ec-9295-c954c6c9fd1b,keepitreal.coupons,available,3.99,,high,low,12,name.com,,,
 abbd6539-80f1-4f9c-8df3-57182db0b8f4,driving.coupons,available,3.99,71.99,high,low,7,name.com,,,
-5afa534e-bfd9-4a8f-9980-af31fdc1ca40,Godknows.coupons,available,3.99,,medium,low,9,name.com,,,
+5afa534e-bfd9-4a8f-9980-af31fdc1ca40,godknows.coupons,available,3.99,,medium,low,9,name.com,,,
 245eddce-e2b5-434e-81e5-26f13e02da39,delighted.coupons,available,2.98,59.98,low,low,9,namecheap,,,09/08/2026 10:01
 1deb00ba-2328-450e-a947-b7338557bbec,melt.coupons,available,3.99,,high,low,4,name.com,,,
 0b414718-730b-420d-a62d-f2cd7fcaf0dc,balls.coupons,available,3.99,,high,low,5,name.com,,,
@@ -547,7 +546,7 @@ b605a34f-4932-43fd-a8c3-b5b77fb375bb,gracious.coupons,available,3.99,71.99,high,
 6170f91b-a06d-4c4e-9d95-7fd588813a69,twodozen.coupons,available,2.98,59.98,low,low,9,namecheap,,,
 c113b4d6-e654-4210-9d53-f329edb712b2,jellybaby.coupons,available,3.99,,high,low,10,name.com,,,
 922fa2e8-a49b-442a-bd2a-7a338f86bef1,disclosure.coupons,available,3.99,,medium,low,10,name.com,,,
-de145d09-8581-42b3-ae2d-e9d815cf691d,Americas.coupons,available,3.99,,medium,low,8,name.com,,,
+de145d09-8581-42b3-ae2d-e9d815cf691d,americas.coupons,available,3.99,,medium,low,8,name.com,,,
 01b420db-98cd-4555-83d9-1dd600bff469,dominance.coupons,available,3.99,,medium,low,9,name.com,,,
 2433a872-2eb5-488e-a2f8-a9637de607b5,hahaha.coupons,available,3.99,,high,low,6,name.com,,,
 8d3761e3-f4d3-482c-8069-37f8e310674b,concert.coupons,premium,260,260,high,low,7,namecheap,,,
@@ -599,22 +598,22 @@ eb88b8b8-9a2d-4207-8929-fd813eb08c63,andean.coupons,available,2.98,59.98,low,low
 60be8e52-ba64-4495-95f2-7a44fb2cd54d,january.coupons,available,3.99,,high,low,7,name.com,,,
 0c9f3b8d-5811-4597-a9a3-0ad20e8e0d18,thick.coupons,available,3.99,,high,low,5,name.com,,,
 7333ab66-2ddf-4458-be9e-8899a6f0d5f1,adherent.coupons,available,2.98,59.98,low,low,8,namecheap,,,
-7092edba-20b6-4332-8552-daf035027208,Powers.coupons,available,3.99,,high,low,6,name.com,,,
+7092edba-20b6-4332-8552-daf035027208,powers.coupons,available,3.99,,high,low,6,name.com,,,
 391511fe-64b4-4564-8a1f-2cd249ebb8cd,secondguess.coupons,available,3.99,,medium,low,12,name.com,,,
 703a768d-d863-4631-9bfd-c5dd10c156d8,footballmatch.coupons,available,3.99,,high,low,14,name.com,,,
 b0ff1207-f5ed-484d-a91d-d62262802d28,deck.coupons,available,3.99,,high,low,4,name.com,,,
-6a03a9e4-aab2-40d7-b3e0-027e4368f6f0,Frenchpancake.coupons,available,3.99,,high,low,14,name.com,,,
+6a03a9e4-aab2-40d7-b3e0-027e4368f6f0,frenchpancake.coupons,available,3.99,,high,low,14,name.com,,,
 516070ff-17a5-47ee-a526-22cc812c7247,baroque.coupons,available,2.98,59.98,low,low,7,namecheap,,,08/08/2026 20:26
 29d1610f-8b7f-4ce6-b80f-349ec3521485,missingperson.coupons,available,3.99,,medium,low,14,name.com,,,
 a0bdc307-a225-4132-95d2-19b48845bf9a,howsayyou.coupons,available,3.99,,medium,low,11,name.com,,,
 a875882f-0e87-452f-bca0-9635a1cadc2d,adrenalinerush.coupons,available,3.99,,high,low,15,name.com,,,
 51215da9-629a-4d44-9c2a-5e4c3c5a1883,actinal.coupons,available,2.98,59.98,low,low,7,namecheap,,,
 17c7c34d-3472-470a-b440-08a87692707a,sawtooth.coupons,available,3.99,,low,low,9,name.com,,,
-fcfbcd49-dc68-41b2-bbe1-f8887ca6c1c3,StPetersburgh.coupons,available,3.99,,medium,low,15,name.com,,,
+fcfbcd49-dc68-41b2-bbe1-f8887ca6c1c3,stpetersburgh.coupons,available,3.99,,medium,low,15,name.com,,,
 3684acad-3bd2-4264-a9cd-b5bf669614b3,hearing.coupons,available,3.99,,high,low,7,name.com,,,
 a7f9d108-6cb3-4eb7-b395-9fa5089c00c6,thinktwice.coupons,available,3.99,,medium,low,11,name.com,,,
 3e0244f3-914b-47b7-845d-21cb52614e5e,oldgeezer.coupons,available,2.98,59.98,low,low,10,namecheap,,,05/08/2026 19:25
-e5733ef1-2156-42b4-9e19-cc4a1fa63211,ISO.coupons,available,,,high,low,3,,,,
+e5733ef1-2156-42b4-9e19-cc4a1fa63211,iso.coupons,available,,,high,low,3,,,,
 5860a808-2cd5-4895-b43f-53f0a8ed7685,retrieve.coupons,available,3.99,,high,low,8,name.com,,,
 38970708-9e4b-440a-b480-f159ba3ab304,extinction.coupons,available,3.99,,medium,low,10,name.com,,,
 42f20428-cbc2-4b6c-b0d3-a259f4773e8b,anguished.coupons,available,2.98,59.98,low,low,9,namecheap,,,
@@ -641,7 +640,7 @@ f9145532-dce0-4da8-a8cf-a5d143558eeb,america.coupons,premium,242,242,high,low,7,
 68123a37-fd91-442f-a589-ce7a7bfae6e4,used.coupons,available,3.99,,high,low,4,name.com,,,
 6067211f-1e0a-4d69-b261-2de6d6fddbeb,quickness.coupons,available,3.99,,high,low,9,name.com,,,
 dfcdcb8c-d48a-4f7c-a286-09df2a775e47,dive.coupons,available,3.99,,high,low,4,name.com,,,
-02b0e6ca-bfe3-4966-94b9-1c39473d4be8,Greg.coupons,available,3.99,,medium,low,4,name.com,,,
+02b0e6ca-bfe3-4966-94b9-1c39473d4be8,greg.coupons,available,3.99,,medium,low,4,name.com,,,
 5c9d4518-cccc-474f-aae3-4aba4b9acf07,gun.coupons,available,,,medium,low,3,,,,
 4c6cfe59-c443-4329-b16f-3a76bf1c08a8,aciduric.coupons,available,2.98,59.98,low,low,8,namecheap,,,
 1e197224-20fd-457c-bd06-753c9235c62f,salmon.coupons,available,3.99,,high,low,6,name.com,,,
@@ -651,11 +650,11 @@ dfcdcb8c-d48a-4f7c-a286-09df2a775e47,dive.coupons,available,3.99,,high,low,4,nam
 87fa2629-d621-469b-ad62-1710e543c240,queens.coupons,available,3.99,,medium,low,6,name.com,,,
 ed747c4b-a01e-4744-ab6e-06a01c69a383,avian.coupons,available,2.98,59.98,low,low,5,namecheap,,,07/08/2026 23:17
 9c875b90-0792-4759-bbd1-0598572de40a,inthewakeof.coupons,available,3.99,,medium,low,14,name.com,,,
-7c92c54b-6a6d-47d5-a2a3-b89b57422be0,boxer.coupons,available,2.98,59.98,medium,low,5,namecheap,,,16/09/2026 01:59
+7c92c54b-6a6d-47d5-a2a3-b89b57422be0,boxer.coupons,available,5.99,54.99,medium,low,5,namesilo,,,19/09/2026 03:25
 c577a52a-4878-4ec4-a83c-513dd9ab6a54,virulent.coupons,available,2.98,59.98,low,low,8,namecheap,,,
 420dfb0c-655f-450c-be63-325cf641613c,killedinaction.coupons,available,3.99,,low,low,16,name.com,,,
 5fd749a5-7bf4-4e73-a54c-3ec80e6f628c,onthebasisof.coupons,available,3.99,,medium,low,15,name.com,,,
-7d22cd93-3e5a-471a-b898-e1c52f12bf34,finding.coupons,available,2.98,59.98,medium,low,7,namecheap,,,12/09/2026 04:02
+7d22cd93-3e5a-471a-b898-e1c52f12bf34,finding.coupons,available,5.99,54.99,medium,low,7,namesilo,,,19/09/2026 14:57
 36ba9c69-9fb6-4b43-871e-4823f82e0769,assiduous.coupons,available,2.98,59.98,low,low,9,namecheap,,,07/08/2026 06:09
 f2b11db6-3bdc-401d-a6b0-6f9b7c1dd48e,aboard.coupons,available,3.99,,medium,low,6,name.com,,,
 871f5de2-cd5c-4098-b2fc-a4f988ec18f6,greenpepper.coupons,available,3.99,,high,low,12,name.com,,,
@@ -724,15 +723,13 @@ d376aab7-3a61-4bb3-8102-ade314076c7c,preceding.coupons,available,3.99,,low,low,9
 a614260b-9bd1-4d06-88eb-8daccae88544,kansas.coupons,premium,78.54,78.54,medium,low,6,namesilo,,,
 02329dc3-c8d4-4e9d-ad55-1805a977f225,affable.coupons,available,3.99,71.99,high,low,7,name.com,,,
 d8af2235-7494-448a-9556-d472e11bd7a2,justintime.coupons,available,3.99,,medium,low,12,name.com,,,
-9a4e9aac-8aed-480b-8e02-10cd8564e3cd,Americaneagle.coupons,available,,,high,low,14,,,,
 4d9da016-bae1-45a0-a281-4b7193d0424a,corridor.coupons,available,3.99,,medium,low,8,name.com,,,
 4d424dfb-6527-40db-92a5-9d58197b29fc,cameraman.coupons,available,3.99,,high,low,9,name.com,,,
 26d5c225-65fe-45e7-a8a6-11dac5a63585,similarly.coupons,available,3.99,,medium,low,9,name.com,,,
 1a49bb79-8b63-4ec1-8473-801fb9c03ba8,witty.coupons,available,3.99,,high,low,5,name.com,,,
 bae14958-c3e4-4570-a545-59948cad770a,determine.coupons,available,3.99,,high,low,9,name.com,,,
-cbfdd0af-2fef-4caf-9507-f970a845a13a,Iwillyeah.coupons,available,3.99,,medium,low,11,name.com,,,
+cbfdd0af-2fef-4caf-9507-f970a845a13a,iwillyeah.coupons,available,3.99,,medium,low,11,name.com,,,
 11f779ed-8725-40b9-99ab-d2d6f0f8153d,bowleg.coupons,available,2.98,59.98,low,low,6,namecheap,,,08/08/2026 11:50
-efecdd10-1929-4884-9322-14bd971c4c12,here.coupons,available,,,high,low,4,,,,
 5ddb8103-4d4c-4fc9-b61b-6bb947917b0a,hexad.coupons,available,2.98,59.98,low,low,5,namecheap,,,
 ff297e20-34d6-4a29-926c-ce8e0e233737,built.coupons,available,3.99,,high,low,5,name.com,,,
 d973b1c1-6eb8-4710-803a-94d4551d320d,astomatous.coupons,available,2.98,59.98,low,low,10,namecheap,,,07/08/2026 09:45
@@ -750,7 +747,7 @@ a182b122-06a7-456f-a570-d50d8418fd6f,almost.coupons,available,3.99,,high,low,6,n
 4e6d2c7c-3549-4a7b-92c8-dc46e41dc0df,assured.coupons,available,2.98,59.98,low,low,7,namecheap,,,07/08/2026 08:21
 7991ce12-002e-480b-9707-2bb4e79829a0,robotic.coupons,available,3.99,,high,low,7,name.com,,,
 fbc67b77-eb37-4323-8b95-549ed94b6d72,manualwork.coupons,available,3.99,,medium,low,11,name.com,,,
-8b766b2f-0770-428c-8673-df71adc5093e,vast.coupons,available,2.98,59.98,medium,low,4,namecheap,,,15/09/2026 03:15
+8b766b2f-0770-428c-8673-df71adc5093e,vast.coupons,available,5.99,54.99,medium,low,4,namesilo,,,19/09/2026 06:11
 6f668902-ce09-4eba-be54-c492ef8b2493,twohanded.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 8f0eab09-17ec-429e-8804-ca29b2577e58,comeright.coupons,available,3.99,,high,low,10,name.com,,,
 c1a12243-75fa-451c-ba84-dae06caa3820,astimegoesby.coupons,available,3.99,,medium,low,15,name.com,,,
@@ -763,9 +760,8 @@ b9a843c6-6023-4aff-9cc2-bd2a36cd83fe,dateofdeath.coupons,available,3.99,,medium,
 e048cf58-83b1-4f9b-be7b-a42149b8cd12,noncompeteclause.coupons,available,3.99,,medium,low,17,name.com,,,
 646eae6e-215d-44d1-990e-733fae2368b9,getwrong.coupons,available,3.99,,medium,low,9,name.com,,,
 5352fb75-e3a0-430d-a7b6-6b258e31b9e9,common.coupons,available,3.99,,high,low,6,name.com,,,
-b9ef8559-48de-470e-8983-b05065dc4bbe,Chinesenoodles.coupons,available,3.99,,medium,low,15,name.com,,,
+b9ef8559-48de-470e-8983-b05065dc4bbe,chinesenoodles.coupons,available,3.99,,medium,low,15,name.com,,,
 ba488362-f7c2-4b01-94a4-f61ea117fbf2,dear.coupons,available,3.99,,high,low,4,name.com,,,
-0420c7e7-b75a-4275-bade-cf30fe965ff7,space.coupons,available,3.99,,high,medium,5,name.com,,,
 07b5d19b-37d1-4087-8e41-9fd1376c4446,grandfather.coupons,available,3.99,,high,low,11,name.com,,,
 1401172c-9749-416e-b597-40539947724c,devour.coupons,available,3.99,,high,low,6,name.com,,,
 5f872632-08f0-4b91-9ebf-f1b173367962,involved.coupons,available,3.99,,high,low,8,name.com,,,
@@ -805,7 +801,7 @@ a8140947-3014-49fc-a8e5-dc258b0921ab,employ.coupons,available,2.98,59.98,medium,
 4fa11c35-d6ee-4079-a69c-a228cc6e54b8,unimportant.coupons,available,3.99,,medium,low,11,name.com,,,
 598e6a52-9852-4587-a23a-bf33b3c8fcea,yell.coupons,available,3.99,,medium,low,4,name.com,,,
 eb9a7a12-5c42-485a-bdf0-fc2a3f0a0abb,medal.coupons,available,3.99,,high,low,5,name.com,,,
-56bef7e1-7fc6-4692-8a65-67431cb93975,active.coupons,premium,82.5,82.5,high,low,6,name.com,,,
+56bef7e1-7fc6-4692-8a65-67431cb93975,active.coupons,premium,78.54,78.54,medium,low,6,namesilo,,,20/09/2026 03:06
 cb533dec-0447-445e-9c9f-30e69ffaea62,gettakenin.coupons,available,3.99,,medium,low,12,name.com,,,
 cca03900-af9d-46c1-81eb-209edf89bd95,noticed.coupons,available,3.99,,high,low,7,name.com,,,
 362a95b3-457c-483b-b9dc-548de36ede20,champion.coupons,available,3.99,71.99,high,low,8,name.com,,,
@@ -815,13 +811,11 @@ e0e38406-10cd-45cf-a9c2-9cc4d1ecb383,hallwaymonitor.coupons,available,3.99,,medi
 dc6a6e53-02f3-4a28-bfb4-77a846cdd447,hecksno.coupons,available,3.99,,medium,low,8,name.com,,,
 54457a14-d2b2-4eed-9b2c-8364b73e768b,invariably.coupons,available,3.99,,medium,low,10,name.com,,,
 2cdd94ef-f821-4348-9910-7149bcd794c5,precipitous.coupons,available,3.99,,low,low,11,name.com,,,
-320fcdb0-bbf6-406d-a126-8cf5ee32f58b,identity.coupons,available,,,high,low,8,,,,
 badc02e1-85e2-4ec1-9de5-5b91a0a0463e,those.coupons,available,3.99,,medium,low,5,name.com,,,
 b853b3f3-41ea-43b1-b1e1-3c1556a5ca42,ascending.coupons,available,2.98,59.98,low,low,9,namecheap,,,07/08/2026 00:51
 c483031a-98d0-41bd-b20f-0195226f0c13,trimback.coupons,available,3.99,,medium,low,9,name.com,,,
 354c78ba-64f2-4aa7-a063-7032cc1e7baa,brandnew.coupons,available,3.99,,high,low,9,name.com,,,
 b3c23f21-8452-47f2-9466-1b866b85a4ef,inthehand.coupons,available,3.99,,medium,low,11,name.com,,,
-21811789-19a6-4d49-9bef-09085ae30833,info.coupons,resell,,,high,medium,4,Dynadot Inc,27/07/2025 17:00,27/07/2026 17:00,
 f7e95514-718e-4ff1-a70f-b72c94110f04,antlered.coupons,available,2.98,59.98,low,low,8,namecheap,,,05/08/2026 20:11
 b0c8866e-f0ec-4311-8d74-78f868b99329,apocryphal.coupons,available,2.98,59.98,low,low,10,namecheap,,,06/08/2026 01:11
 616fb302-4b58-4f03-a31b-43955bc02751,industrialize.coupons,available,3.99,,medium,low,13,name.com,,,
@@ -838,7 +832,7 @@ c02c2983-4ad4-406e-94d3-93bd5b303c5a,tire.coupons,premium,242,242,high,low,4,nam
 5d67490a-5840-4bac-8352-08c740d45915,since.coupons,available,3.99,,high,low,5,name.com,,,
 92523393-3f8b-45f7-b3a6-68d16914ef7b,documentation.coupons,available,3.99,,medium,low,13,name.com,,,
 b7a11ebc-eb03-41bd-9884-c77b3602f203,deadly.coupons,available,3.99,,medium,low,6,name.com,,,
-cb02be99-d330-476a-b252-f479aaefdbc1,Nicole.coupons,available,3.99,,high,low,6,name.com,,,
+cb02be99-d330-476a-b252-f479aaefdbc1,nicole.coupons,available,3.99,,high,low,6,name.com,,,
 857d53c6-2334-4929-94bc-6b65f6fb6429,scrub.coupons,available,3.99,,high,low,5,name.com,,,
 9f75efd6-16d9-41fd-8e31-ec9c91baeb50,lookunderrocks.coupons,available,3.99,,medium,low,16,name.com,,,
 bcf92625-99b0-4be0-9521-d3a66c5d207c,biggame.coupons,available,3.99,,high,low,8,name.com,,,
@@ -847,9 +841,8 @@ bcf92625-99b0-4be0-9521-d3a66c5d207c,biggame.coupons,available,3.99,,high,low,8,
 2ea7ca0f-7e2f-46ed-b1d3-99c4a86c9ea6,azonal.coupons,available,2.98,59.98,low,low,6,namecheap,,,08/08/2026 02:27
 9be427fa-bf37-4300-a2bb-15ba20379099,abatable.coupons,available,2.98,59.98,low,low,8,namecheap,,,
 0bffe5d5-0b14-42e3-a0b4-c48b2af9e4a6,analogical.coupons,available,2.98,59.98,low,low,10,namecheap,,,
-0a04c9be-d312-4b1e-a8bb-a7f3344d4571,OldWorld.coupons,available,3.99,,low,low,9,name.com,,,
 cf1d46ea-2d9d-42d8-a09d-bac1757dc84e,taxassessment.coupons,available,3.99,,medium,low,14,name.com,,,
-2bf79b57-d5eb-4218-a256-d33b3a510c52,Oxfam.coupons,available,3.99,,high,low,5,name.com,,,
+2bf79b57-d5eb-4218-a256-d33b3a510c52,oxfam.coupons,available,3.99,,high,low,5,name.com,,,
 c276d19b-ee10-4b7a-b782-6be3803a920e,respecting.coupons,available,3.99,,medium,low,10,name.com,,,
 6f49ebed-7dc5-41e1-8296-c854ed2fb1e2,articled.coupons,available,2.98,59.98,low,low,8,namecheap,,,06/08/2026 08:28
 91053977-9e21-43a9-8244-d53176d96140,justfriends.coupons,available,3.99,,high,low,12,name.com,,,
@@ -868,7 +861,7 @@ ee50ce97-f261-482c-b816-876a335d9037,adrift.coupons,available,2.98,59.98,low,low
 12e9f301-c169-48c3-9eb7-2b71303019f6,depend.coupons,available,3.99,,high,low,6,name.com,,,
 9be1bff7-99c0-4fa0-b352-65763b639416,abundantly.coupons,available,3.99,,medium,low,10,name.com,,,
 73fd625e-6c47-4135-a63d-3159381ed605,taketheknee.coupons,available,3.99,,low,low,13,name.com,,,
-399f86b5-76d7-4228-9ce7-4ce68e0b8661,HBO.coupons,available,,,high,low,3,,,,
+399f86b5-76d7-4228-9ce7-4ce68e0b8661,hbo.coupons,available,,,high,low,3,,,,
 bac1d586-99bb-430a-a90d-8f7ff9334e37,inthehell.coupons,available,3.99,,medium,low,11,name.com,,,
 d9601b63-c361-4752-a7c7-4f9019a1a388,doyouknow.coupons,available,3.99,,medium,low,11,name.com,,,
 9b70f2bf-ffeb-4bb4-b444-1b59114db7b7,blurry.coupons,available,3.99,,medium,low,6,name.com,,,
@@ -940,7 +933,7 @@ a871f21f-88cd-468d-8449-e99576e01f9d,animal.coupons,available,2.98,59.98,medium,
 25ee66f3-e345-482c-9610-70b6174d0d19,hairdryer.coupons,available,3.99,,high,low,10,name.com,,,
 33c7234b-6ea2-4e7e-ac66-44b2941d1926,candidate.coupons,available,3.99,,high,low,9,name.com,,,
 ec252242-2037-40eb-b0d4-c464075a1b2c,there.coupons,available,3.99,,high,low,5,name.com,,,
-4cc3270f-3006-42d5-8cfb-c16dfec16a17,Kinder.coupons,available,,,high,low,6,,,,
+4cc3270f-3006-42d5-8cfb-c16dfec16a17,kinder.coupons,available,,,high,low,6,,,,
 e35b6251-e3f4-4325-a118-88e389c2ce85,awful.coupons,available,3.99,,high,low,5,name.com,,,
 b0364344-b632-44be-b452-7f97bf675f84,gleaming.coupons,available,2.98,59.98,low,low,8,namecheap,,,
 788bfd01-8189-45c3-a5c6-85e088df511a,snow.coupons,available,3.99,,medium,low,4,name.com,,,
@@ -971,7 +964,6 @@ e85c680f-3d3f-4bd6-8d6e-846237bbe98e,patrikin.coupons,available,2.98,59.98,low,l
 3c099f40-252b-44ee-91a8-75aba5d661de,fifteen.coupons,available,3.99,71.99,high,low,7,name.com,,,
 de71df21-d00f-4ffe-a127-254409496fda,parents.coupons,available,3.99,,medium,low,7,name.com,,,
 97a2b242-0c06-4a2e-9ca9-ddf9f58d6a5d,lose.coupons,available,3.99,,medium,low,4,name.com,,,
-6f4e3252-c35c-48fb-b580-88c7f63e7e93,social.coupons,resell,,,high,medium,6,Dynadot Inc,11/02/2026 17:00,11/02/2027 17:00,
 d2a131d0-60cd-4bf4-91bf-cb1f5cd583ff,stairs.coupons,available,3.99,,medium,low,6,name.com,,,
 18c25c14-1740-4f22-a395-fde383f3d399,anopheline.coupons,available,2.98,59.98,low,low,10,namecheap,,,
 cd9a1453-b8aa-43cf-b83d-ec5a5303d5a2,diner.coupons,available,3.99,,high,low,5,name.com,,,
@@ -999,3 +991,11 @@ bae8c6c4-9ac0-4995-905f-05603a757806,wasteland.coupons,available,2.98,59.98,low,
 acaf453c-8b13-4d59-97b0-177eaa53d292,alsatian.coupons,available,2.98,59.98,low,low,8,namecheap,,,
 35662493-0bdb-42c4-8cd1-d501b9bfd577,curious.coupons,available,3.99,71.99,high,low,7,name.com,,,
 3877a79d-5634-48a9-82b5-015d0a8574bf,alated.coupons,available,2.98,59.98,low,low,6,namecheap,,,
+1d7688f8-92aa-4d9d-9804-c025521dce61,coolly.coupons,available,3.99,,high,low,6,name.com,,,
+2a7ed703-7049-4940-a18b-4e9a7035a034,whitened.coupons,available,3.99,,medium,low,8,name.com,,,
+9446fbbd-1977-4e70-beda-b503cc7179b3,much.coupons,available,3.99,,high,low,4,name.com,,,
+74f04621-155c-4cd7-bf3f-ace7cd199c2f,enterontheboards.coupons,available,3.99,,medium,low,19,name.com,,,
+04afe385-d1f7-491f-9773-bf3d65ece241,mask.coupons,available,3.99,,high,low,4,name.com,,,
+014c17a8-86ed-48ef-b431-1fdc4db18323,seated.coupons,available,3.99,,high,low,6,name.com,,,
+65b11433-9cd4-4008-adbd-5ab840225f76,achy.coupons,available,2.98,59.98,low,low,4,namecheap,,,
+20c45e1d-04d5-4af1-a990-42ef1efb7891,appear.coupons,available,3.99,,high,low,6,name.com,,,
