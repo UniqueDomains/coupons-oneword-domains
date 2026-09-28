@@ -11,6 +11,7 @@ f13d6be6-3cd4-43e2-9436-c581d006b22c,alsatia.coupons,available,5.99,54.99,medium
 208232fb-f918-4875-b57f-ae49e96e6fcd,astrakhan.coupons,available,5.99,54.99,medium,low,9,namesilo,,,20/09/2026 17:31
 3e26b577-68dc-4d99-b623-2f80b9b3eed9,beatniks.coupons,available,2.98,59.98,medium,low,8,namecheap,,,22/09/2026 21:34
 d6d34d87-a7a2-4cae-9b15-aed5fd866c3d,knee.coupons,available,5.99,54.99,high,low,4,namesilo,,,20/09/2026 11:27
+520cf5ad-5124-4d77-a254-ce8b6b597a28,augsburg.coupons,available,2.27,43.67,high,low,8,spaceship,,,27/09/2026 20:03
 a739239f-4be9-4d5f-97c9-620fdc4ab108,nisi.coupons,available,2.98,59.98,high,low,4,namecheap,,,03/09/2026 17:44
 4763627f-624a-4fd7-8885-787df745222a,weird.coupons,available,5.99,54.99,high,low,5,namesilo,,,24/09/2026 13:41
 606ea78f-45d5-4fe0-8ec2-fee9f2eaf647,jargon.coupons,available,2.98,59.98,high,low,6,namecheap,,,13/09/2026 04:10
@@ -25,7 +26,7 @@ f13d004a-118c-469b-9e2f-d29c95b75495,hampton.coupons,available,5.99,54.99,high,l
 10adca61-ceaf-4182-beb5-400cf8c19400,lackluster.coupons,available,2.98,59.98,medium,low,10,namecheap,,,22/08/2026 18:07
 a9d890bd-6f43-4de0-bf59-cc090db4e839,canadian.coupons,premium,78.54,78.54,high,low,8,namesilo,,,23/09/2026 12:40
 7e8e248f-cb0b-4296-a007-10a46136fea6,unhealed.coupons,available,2.98,59.98,medium,low,8,namecheap,,,12/09/2026 12:08
-53b19644-4e4d-4d93-bfb4-c419d050c14f,glut.coupons,available,5.99,54.99,high,low,4,namesilo,,,23/09/2026 17:21
+53b19644-4e4d-4d93-bfb4-c419d050c14f,glut.coupons,available,5.99,54.99,medium,low,4,namesilo,,,23/09/2026 17:21
 f736279c-957b-4eab-898b-cd720728a0fa,gizmo.coupons,available,5.99,54.99,high,low,5,namesilo,,,19/09/2026 21:49
 64a0eff1-d617-4e89-916e-890644044d3b,soundable.coupons,available,2.98,59.98,medium,low,9,namecheap,,,17/08/2026 23:44
 278c5196-384e-44a6-9825-aa7aa70eb0bb,calculators.coupons,available,2.98,59.98,medium,low,11,namecheap,,,18/09/2026 18:59
@@ -40,11 +41,12 @@ bdd5314e-64a8-4852-ba49-246219a96626,xii.coupons,available,5.99,54.99,high,low,3
 4988a12d-36f6-406a-9eb2-12c6e918f8d9,phone.coupons,premium,78.54,78.54,high,low,5,namesilo,,,
 649a9901-9a64-4541-9323-29b126500987,behalf.coupons,available,5.99,54.99,high,low,6,namesilo,,,23/09/2026 03:04
 9d4e3da7-d66e-4e0c-8b5c-f22c0393d54a,outwards.coupons,available,2.98,59.98,medium,low,8,namecheap,,,04/09/2026 19:50
-7dfc1a59-8ac0-42fc-bcbb-d713f1c9ffcb,missed.coupons,available,2.98,59.98,high,low,6,namecheap,,,25/08/2026 01:45
-38962775-d926-453c-a626-4126ea6bfdf4,thirties.coupons,available,5.99,54.99,high,low,8,namesilo,,,16/09/2026 12:05
+c7ebface-b0de-4623-bc96-9c4b9c54c899,zhao.coupons,available,2.5,45.16,high,low,4,dynadot,,,27/09/2026 20:53
+7dfc1a59-8ac0-42fc-bcbb-d713f1c9ffcb,missed.coupons,available,2.98,59.98,medium,low,6,namecheap,,,25/08/2026 01:45
+38962775-d926-453c-a626-4126ea6bfdf4,thirties.coupons,available,5.99,54.99,medium,low,8,namesilo,,,16/09/2026 12:05
 16e97ef6-87ff-4667-bae5-7a5b40cf95bd,allophonic.coupons,available,2.98,59.98,medium,low,10,namecheap,,,
 04e572e6-ec50-424a-8594-67035e52bef2,childbirth.coupons,available,2.98,59.98,high,low,10,namecheap,,,12/08/2026 05:00
-62eb5fdb-ee8b-4b75-90f9-8cdff744456e,symbolical.coupons,available,2.98,59.98,high,low,10,namecheap,,,16/08/2026 09:33
+62eb5fdb-ee8b-4b75-90f9-8cdff744456e,symbolical.coupons,available,2.98,59.98,medium,low,10,namecheap,,,16/08/2026 09:33
 95a715eb-9948-4a6e-b5b0-ce9d9b87bc99,abdication.coupons,available,5.99,54.99,medium,low,10,namesilo,,,16/09/2026 14:43
 bd863c04-aebe-47f9-9277-1215421612e3,isles.coupons,available,5.99,54.99,medium,low,5,namesilo,,,20/09/2026 01:00
 0dbe7084-f45b-4d9c-bfac-7e7b01d266e9,negroid.coupons,available,2.98,59.98,medium,low,7,namecheap,,,03/09/2026 15:14
@@ -71,12 +73,12 @@ b44ce94b-3209-4c3c-85f8-d24b4e2db176,monkeys.coupons,available,5.99,54.99,medium
 35d40b6e-6867-4983-82e8-6f3e40beb227,abdomen.coupons,available,5.99,54.99,high,low,7,namesilo,,,16/09/2026 14:45
 d586df7b-7d88-45e9-b497-d0f183e960bf,crucial.coupons,available,5.99,54.99,high,low,7,namesilo,,,22/09/2026 00:39
 05c14e17-7a69-4cb7-bae2-2173381095ec,stripes.coupons,available,5.99,54.99,high,low,7,namesilo,,,24/09/2026 14:23
-7c39143f-2339-43cf-b49d-143c3bc9333d,cast.coupons,available,3.99,,high,low,4,name.com,,,
+7c39143f-2339-43cf-b49d-143c3bc9333d,cast.coupons,available,2.27,43.67,high,low,4,spaceship,,,27/09/2026 20:35
 9b00bedd-c454-42ba-a7d5-8ef8340ab2a7,parentally.coupons,available,2.98,59.98,medium,low,10,namecheap,,,15/09/2026 18:57
 d60c7880-9e15-435f-ace2-0e3c412f7378,nubby.coupons,available,2.98,59.98,medium,low,5,namecheap,,,21/08/2026 11:15
 ff421768-e74e-4fb0-95d9-d9a70436e3e4,diatomic.coupons,available,2.98,59.98,medium,low,8,namecheap,,,14/08/2026 06:19
 dac524f6-b776-42a3-99b5-6a608d72f6cc,software.coupons,premium,78.54,78.54,high,medium,8,namesilo,,,27/09/2026 01:39
-a2807653-ce4f-4ef4-b171-77f00e122e3d,edmund.coupons,available,2.98,59.98,high,low,6,namecheap,,,25/09/2026 19:09
+a2807653-ce4f-4ef4-b171-77f00e122e3d,edmund.coupons,available,2.98,59.98,medium,low,6,namecheap,,,25/09/2026 19:09
 632ee4f9-ec1e-4356-b27a-5dab0e801bd5,brooks.coupons,available,5.99,54.99,high,low,6,namesilo,,,24/09/2026 10:47
 c7577ffc-47b1-4bd6-8a97-b491094c4e86,unselfish.coupons,available,2.98,59.98,high,low,9,namecheap,,,12/09/2026 19:16
 99dfdd18-bce0-4e02-a4be-f048c5365c6a,goosy.coupons,available,2.98,59.98,medium,low,5,namecheap,,,14/08/2026 16:07
@@ -117,6 +119,7 @@ a8db0d60-8866-4e90-85d2-39c0bf1c1edd,chief.coupons,available,5.99,54.99,high,low
 72d6baec-402f-44c7-88ae-c5c49c0524ce,moved.coupons,available,3.99,,high,low,5,name.com,,,
 a56b883f-2d04-4e6b-8308-04e516d6e700,leering.coupons,available,2.98,59.98,medium,low,7,namecheap,,,25/09/2026 05:58
 2ecd1292-82cc-4205-b8d5-b009de63669e,warrant.coupons,available,2.98,59.98,high,low,7,namecheap,,,08/09/2026 08:40
+e0033b5a-f3ce-4298-a3fb-3e107379fa37,activities.coupons,available,5.99,54.99,medium,low,10,namesilo,,,27/09/2026 22:27
 f61fc955-e8ad-4578-84cb-2182bc84c09a,uveal.coupons,available,2.98,59.98,medium,low,5,namecheap,,,13/09/2026 00:22
 99478f4a-715d-4fab-8995-3988fc4266ff,combed.coupons,available,2.98,59.98,medium,low,6,namecheap,,,12/08/2026 18:33
 d50461a0-1fc7-469b-bea2-9b2cb0702a15,nearer.coupons,available,3.99,,medium,low,6,name.com,,,
@@ -124,7 +127,7 @@ ac72d981-a478-41b8-b13b-07eb2f7b7676,criticize.coupons,available,3.99,,high,low,
 f7a73636-4778-4494-ba64-77dc2271c2aa,fury.coupons,available,5.99,54.99,high,low,4,namesilo,,,24/09/2026 21:41
 0eff0d5a-9764-418f-a920-c24f083909a6,makeovers.coupons,available,5.99,54.99,medium,low,9,namesilo,,,21/09/2026 08:55
 70388bdb-0e56-4367-918c-c8a1c93a4fd3,memory.coupons,available,3.99,,high,medium,6,name.com,,,
-35f95d32-90de-4e6b-9cf8-97f6ed1cc39f,aqualung.coupons,available,5.99,54.99,high,low,8,namesilo,,,19/09/2026 22:54
+35f95d32-90de-4e6b-9cf8-97f6ed1cc39f,aqualung.coupons,available,5.99,54.99,medium,low,8,namesilo,,,19/09/2026 22:54
 bfce90a3-3797-41de-a542-bfc47e682111,alabama.coupons,premium,78.54,78.54,high,low,7,namesilo,,,
 efccc5a6-5f1f-457a-aa84-138608761a1b,purchasing.coupons,available,5.99,54.99,high,low,10,namesilo,,,24/09/2026 11:23
 d09b202b-c186-4130-a0c3-cb4fdd8f574b,passe.coupons,available,2.98,59.98,medium,low,5,namecheap,,,14/08/2026 01:17
@@ -134,20 +137,21 @@ ca2ef717-d41b-47c6-84a8-a92c3b0ae2c9,algiers.coupons,available,5.99,54.99,medium
 6bf1ff8e-6227-409e-a382-aa39dc086c00,educate.coupons,available,5.99,54.99,high,low,7,namesilo,,,27/09/2026 02:25
 be3b723d-3ed2-4edb-99e3-6613b94578f3,acarine.coupons,available,2.98,59.98,medium,low,7,namecheap,,,16/09/2026 21:33
 19e58b61-8b97-47a8-a218-995aac84cbeb,writing.coupons,available,3.99,,high,low,7,name.com,,,
-e449e7b6-eec7-4e64-86d3-9282b50e9e75,echoes.coupons,available,2.98,59.98,high,low,6,namecheap,,,19/09/2026 20:18
+e449e7b6-eec7-4e64-86d3-9282b50e9e75,echoes.coupons,available,2.98,59.98,medium,low,6,namecheap,,,19/09/2026 20:18
 73057c9b-0e42-4b2c-84fe-b8bcf79e0875,dogged.coupons,available,2.98,59.98,medium,low,6,namecheap,,,14/08/2026 14:54
-3ac54d7a-5ad6-46de-888f-65fff041c4a1,rigged.coupons,available,2.98,59.98,high,low,6,namecheap,,,09/09/2026 17:25
+3ac54d7a-5ad6-46de-888f-65fff041c4a1,rigged.coupons,available,2.98,59.98,medium,low,6,namecheap,,,09/09/2026 17:25
 f3c635d7-4dc9-410b-98c8-1d538744f232,athelstan.coupons,available,2.98,59.98,medium,low,9,namecheap,,,20/09/2026 20:33
 59c60278-c55e-4483-a16c-7b23637f5191,geological.coupons,available,2.98,59.98,high,low,10,namecheap,,,18/08/2026 22:28
 6557705c-dd84-4675-bc84-0a602325dbfe,wiley.coupons,available,5.99,54.99,high,low,5,namesilo,,,27/09/2026 08:05
 340dad5d-6981-41e5-a401-a661e0a7673a,dainty.coupons,available,3.99,71.99,high,low,6,name.com,,,13/08/2026 15:40
 33435489-4311-47dc-ad5a-39628f1e34d1,movable.coupons,available,2.98,59.98,high,low,7,namecheap,,,25/08/2026 08:56
-c72d663f-c625-480a-81e4-bc3fbafc407b,microbial.coupons,available,2.98,59.98,high,low,9,namecheap,,,08/09/2026 09:41
+c72d663f-c625-480a-81e4-bc3fbafc407b,microbial.coupons,available,2.98,59.98,medium,low,9,namecheap,,,08/09/2026 09:41
 6f6d1904-a3fe-421d-b363-970374a82a3a,drinks.coupons,available,2.98,59.98,high,low,6,namecheap,,,25/09/2026 17:32
 749feed2-8978-49dd-9316-6f175b816bee,podgy.coupons,available,2.98,59.98,low,low,5,namecheap,,,08/09/2026 22:22
 3d065046-06e0-4fdc-9775-eeaf13f4d337,passing.coupons,available,5.99,54.99,high,low,7,namesilo,,,24/09/2026 14:24
 164dd713-d750-4942-8e4d-01f143181c53,threadfish.coupons,available,5.99,54.99,medium,low,10,namesilo,,,18/09/2026 04:49
 660593c6-7994-49d0-b457-8b19c97aac24,hyalin.coupons,available,2.98,59.98,medium,low,6,namecheap,,,21/08/2026 16:10
+3a0dd424-e013-4ef8-b391-89da377a72fd,judging.coupons,available,2.5,45.16,high,low,7,dynadot,,,27/09/2026 14:29
 40381197-a62f-46c9-a632-5d555c05891e,contorted.coupons,available,2.98,59.98,medium,low,9,namecheap,,,12/08/2026 23:22
 ea7fe262-4ec9-4a54-a3da-e558fb19da0d,fever.coupons,available,3.99,,high,low,5,name.com,,,
 2a5aacff-9672-4ec4-8a71-cf88aa55d4ab,relieved.coupons,available,2.98,59.98,high,low,8,namecheap,,,
@@ -155,9 +159,9 @@ decc3f19-5eeb-48fe-bb54-5af3be977ac6,renewing.coupons,available,2.98,59.98,high,
 0d27e72a-90eb-4dd6-8bbd-4c82bf5769f9,elite.coupons,available,3.99,71.99,high,medium,5,name.com,,,24/09/2026 13:43
 4910f959-e0de-44cb-9c0d-3e49ae720498,belle.coupons,available,5.99,54.99,high,low,5,namesilo,,,23/09/2026 06:02
 56e6316c-008c-487a-b42c-6ccc02320ef7,delicious.coupons,available,5.99,54.99,high,low,9,namesilo,,,24/09/2026 05:16
-98bfd918-b7e6-4b1f-b676-b28aa45e3e91,pureblood.coupons,available,2.98,59.98,high,low,9,namecheap,,,08/09/2026 13:00
+98bfd918-b7e6-4b1f-b676-b28aa45e3e91,pureblood.coupons,available,2.98,59.98,medium,low,9,namecheap,,,08/09/2026 13:00
 b02848a2-437f-44b2-955f-9bc48cb36611,blameless.coupons,available,2.98,59.98,high,low,9,namecheap,,,10/08/2026 12:53
-e06709e5-c99d-4989-be34-01c408780592,cavernous.coupons,available,2.98,59.98,high,low,9,namecheap,,,11/08/2026 22:51
+e06709e5-c99d-4989-be34-01c408780592,cavernous.coupons,available,2.98,59.98,medium,low,9,namecheap,,,11/08/2026 22:51
 810d86b7-c0b7-463e-9487-f7895834d70b,struck.coupons,available,2.98,59.98,medium,low,6,namecheap,,,10/09/2026 11:50
 aeb236fa-4003-4fdb-a63c-d8f51c931c61,trumpian.coupons,available,3.99,,medium,low,8,name.com,,,
 670e1850-742a-4760-bac6-b9f61f378c7a,wear.coupons,available,5.99,54.99,high,low,4,namesilo,,,27/09/2026 08:43
@@ -183,10 +187,11 @@ a696269a-50b7-462b-9814-e93cd87085d4,reversion.coupons,available,2.98,59.98,high
 5310d91c-6856-4bda-91dd-755f0b45e834,omani.coupons,available,2.98,59.98,high,low,5,namecheap,,,04/09/2026 02:24
 4cae7ff5-b80c-424b-946e-41195f8539d0,unmerciful.coupons,available,2.98,59.98,medium,low,10,namecheap,,,24/08/2026 20:38
 557713fe-8544-4a51-b58c-046eb88cdbf5,maximally.coupons,available,2.98,59.98,medium,low,9,namecheap,,,15/09/2026 13:43
+d1b8908d-3ba4-4a14-867c-7ccfabbf4205,reputation.coupons,available,2.27,43.67,high,low,10,spaceship,,,27/09/2026 15:38
 8577abef-a0c5-4fa5-ae41-51c940d3d850,unfinished.coupons,available,2.98,59.98,high,low,10,namecheap,,,12/09/2026 10:17
 3d8a672e-8593-4249-adf2-01a4d7a03d94,london.coupons,premium,250,,high,medium,6,name.com,,,
 3eda0a10-c475-4ad2-9a27-2892165bf8eb,frank.coupons,available,2.98,59.98,high,medium,5,namecheap,,,08/09/2026 05:07
-ae34c230-0586-4786-a403-0ac608860a88,antihero.coupons,available,5.99,54.99,high,low,8,namesilo,,,19/09/2026 14:35
+ae34c230-0586-4786-a403-0ac608860a88,antihero.coupons,available,5.99,54.99,medium,low,8,namesilo,,,19/09/2026 14:35
 311c97dd-2a2d-4700-ba43-2647dff91c2f,chordate.coupons,available,2.98,59.98,medium,low,8,namecheap,,,12/08/2026 07:12
 ef7d2aa4-e675-46b5-8e03-c1b2250aac6a,applicant.coupons,available,2.98,59.98,high,low,9,namecheap,,,19/09/2026 21:53
 cb43b8e0-2a50-4249-9a7e-a25b4db1e5b1,upbeat.coupons,available,2.98,59.98,high,low,6,namecheap,,,04/09/2026 01:23
@@ -199,9 +204,9 @@ ad9ade3e-c68f-437f-a98a-6d337e10d58b,acropolis.coupons,available,5.99,54.99,high
 75043daf-a122-4966-96a3-efb2a7c72be8,temperate.coupons,available,2.98,59.98,high,low,9,namecheap,,,11/09/2026 10:48
 0d623939-b102-475f-8346-62aca13d667c,teen.coupons,premium,85.8,85.8,high,low,4,namecheap,,,21/09/2026 19:11
 e0916c3f-4a79-4760-b2a4-3d945c7c7f44,suv.coupons,available,3.99,,high,low,3,name.com,,,
-a02fe4ee-c32c-4f64-891e-bcb590a8a173,ingrained.coupons,available,2.98,59.98,high,low,9,namecheap,,,13/08/2026 22:49
+a02fe4ee-c32c-4f64-891e-bcb590a8a173,ingrained.coupons,available,2.98,59.98,medium,low,9,namecheap,,,13/08/2026 22:49
 612e813a-b0e3-41fd-b5a2-a62ee41eeb5d,escapade.coupons,available,5.99,54.99,high,low,8,namesilo,,,17/09/2026 10:37
-ad81cb97-626d-431a-ba7d-f510061be66e,gardiner.coupons,available,5.99,54.99,high,low,8,namesilo,,,25/09/2026 06:17
+ad81cb97-626d-431a-ba7d-f510061be66e,gardiner.coupons,available,5.99,54.99,medium,low,8,namesilo,,,25/09/2026 06:17
 9e4935b4-0262-4ebf-993e-509c0ca91587,verbalise.coupons,available,2.98,59.98,medium,low,9,namecheap,,,13/09/2026 00:16
 9412576a-8fd1-4bfb-b0d4-c230d4cfbfe5,scurvy.coupons,available,2.98,59.98,medium,low,6,namecheap,,,
 4fc1b464-a4d0-4ad4-97e1-ae798196d49a,baster.coupons,available,5.99,54.99,medium,low,6,namesilo,,,22/09/2026 12:47
@@ -227,9 +232,9 @@ a3bb1ffc-a2f1-4eb2-ad97-a418509bc6d0,cocksure.coupons,available,2.98,59.98,mediu
 2efddac3-7922-4a85-9950-cc14a277a08e,magnetised.coupons,available,2.98,59.98,medium,low,10,namecheap,,,24/08/2026 13:06
 681d2b53-2d33-442d-a0b2-4eb80fe9a218,crudely.coupons,available,2.98,59.98,medium,low,7,namecheap,,,13/09/2026 20:58
 1123b6a1-5603-412f-afc1-70a196129e0a,antiproton.coupons,available,5.99,54.99,medium,low,10,namesilo,,,19/09/2026 15:01
-69c13402-ac29-41cd-ae0d-b36d0274763d,darius.coupons,available,2.98,59.98,high,low,6,namecheap,,,27/09/2026 07:28
+69c13402-ac29-41cd-ae0d-b36d0274763d,darius.coupons,available,2.98,59.98,medium,low,6,namecheap,,,27/09/2026 07:28
 33954c8c-39b8-4131-8f23-d031a1a190c4,altissimo.coupons,available,2.98,59.98,medium,low,9,namecheap,,,
-9a20c0cb-b96b-412e-825d-698c43bc7528,overgrown.coupons,available,2.98,59.98,high,low,9,namecheap,,,04/09/2026 20:42
+9a20c0cb-b96b-412e-825d-698c43bc7528,overgrown.coupons,available,2.98,59.98,medium,low,9,namecheap,,,04/09/2026 20:42
 e0cf01eb-042f-4569-b7a8-e7ee5099adc4,blooded.coupons,available,2.98,59.98,high,low,7,namecheap,,,10/08/2026 15:18
 23ef6e48-c439-4cfd-b2b2-237b22c0c6db,thought.coupons,available,3.99,,high,low,7,name.com,,,
 fc619a7c-38f0-4a42-8900-46f7bbf11fc5,agamic.coupons,available,2.98,59.98,medium,low,6,namecheap,,,
@@ -237,8 +242,10 @@ ae83f0d7-a28a-43e3-917f-49b29afed594,indecisive.coupons,available,2.98,59.98,med
 5ac6f796-4fe8-4d00-8306-336deb3587a2,balaton.coupons,available,2.98,59.98,medium,low,7,namecheap,,,21/09/2026 21:18
 0ac0ece6-32fd-4a6a-8e53-8e2347212636,calls.coupons,available,2.98,59.98,medium,low,5,namecheap,,,18/09/2026 14:59
 035d4137-840b-45cf-b6e3-7d6efedfd55b,macedonian.coupons,available,2.98,59.98,high,low,10,namecheap,,,24/08/2026 12:46
+9ba91121-991d-43dc-af3e-e09324c5c310,clip.coupons,resell,,,high,low,4,,,,28/09/2026 01:38
 cda70c83-8243-42bd-a3a2-d44bfd47dd8e,fragmented.coupons,available,2.98,59.98,medium,low,10,namecheap,,,14/08/2026 13:27
 4e034e39-03e1-4b02-a935-9dc0a55fecd2,pegs.coupons,available,5.99,54.99,medium,low,4,namesilo,,,20/09/2026 09:49
+1f55f676-2466-4ce2-a7e9-dd946875ea9a,kobe.coupons,available,5.99,54.99,high,low,4,namesilo,,,28/09/2026 02:14
 86b95152-2b66-4065-b29b-941c9da405c4,lamely.coupons,available,2.98,59.98,low,low,6,namecheap,,,15/09/2026 10:37
 7a4899ba-8b02-46b5-9ab6-afbf9a0e0043,bailey.coupons,available,2.98,59.98,high,low,6,namecheap,,,21/09/2026 19:05
 13d376a1-e5cb-4f6e-870b-6801d253d540,vibratory.coupons,available,2.98,59.98,medium,low,9,namecheap,,,13/09/2026 05:09
@@ -247,6 +254,7 @@ c25a3e94-81e5-4cb9-a0f7-fcc382dd714b,foregone.coupons,available,2.98,59.98,mediu
 2d191fe8-9b35-4360-acd4-a5004a45a43e,adriatic.coupons,available,2.98,59.98,high,low,8,namecheap,,,17/09/2026 10:03
 57effc64-92d8-4823-8d68-08f38ab39e85,replicate.coupons,available,2.98,59.98,high,low,9,namecheap,,,14/08/2026 21:26
 ed5ba4bd-bdc5-46db-b068-55df45986e84,clergy.coupons,available,3.99,,high,low,6,name.com,,,
+06f1ce77-fa3b-4c0c-9776-8d7ed90e718e,csa.coupons,available,2.27,43.67,high,low,3,spaceship,,,27/09/2026 17:26
 87a29f25-61cb-43c3-a487-6a944b8dea2a,washington.coupons,premium,78.54,78.54,high,low,10,namesilo,,,
 3d724407-aac4-4c36-aa4e-808e56dd0009,safest.coupons,available,5.99,54.99,high,low,6,namesilo,,,20/09/2026 20:39
 7467b3a9-1cbe-4400-a519-2967fdb50621,hunchback.coupons,available,2.98,59.98,medium,low,9,namecheap,,,13/08/2026 07:49
@@ -270,7 +278,7 @@ e5d368b9-5b5b-44ac-a9c2-4e415f357cdc,recovering.coupons,available,5.99,54.99,hig
 768fd9fe-7dc0-4833-91f8-a36c79e6c7d8,necessity.coupons,available,5.99,54.99,high,low,9,namesilo,,,24/09/2026 15:20
 a2fa7856-042d-4883-8ca5-d26627990ace,vindictive.coupons,available,2.98,59.98,medium,low,10,namecheap,,,14/08/2026 04:21
 f935dd82-e070-4fda-a33a-6683c92ce021,ernst.coupons,available,5.99,54.99,high,low,5,namesilo,,,25/09/2026 05:39
-143a012a-bcf8-4c43-910d-f38447acd93d,thud.coupons,available,2.98,59.98,high,low,4,namecheap,,,11/09/2026 15:12
+143a012a-bcf8-4c43-910d-f38447acd93d,thud.coupons,available,2.98,59.98,medium,low,4,namecheap,,,11/09/2026 15:12
 c3f7d36f-6e38-4455-bd54-44f845d2d620,unusable.coupons,available,2.98,59.98,medium,low,8,namecheap,,,12/09/2026 21:58
 89645b6b-9aba-4532-b0ff-ea9a2ab67753,brooke.coupons,available,5.99,54.99,high,low,6,namesilo,,,25/09/2026 02:29
 c369b087-18b8-4282-af35-588991819821,everbody.coupons,available,3.99,,medium,low,8,name.com,,,
@@ -283,9 +291,9 @@ eed2e9e2-10f9-43d7-a926-c6d1233bb0db,relaxing.coupons,available,2.98,59.98,high,
 6c8e6785-10a8-4aa4-b062-eb453bc9f4f4,lame.coupons,available,2.98,59.98,high,low,4,namecheap,,,13/08/2026 07:03
 756d5128-be37-43e1-baf3-0132793f2bcb,done.coupons,available,5.99,54.99,high,low,4,namesilo,,,24/09/2026 11:39
 262ff40b-d611-45c2-a92f-bb04a038b7c7,notebooks.coupons,available,5.99,54.99,medium,low,9,namesilo,,,20/09/2026 11:51
-25fc1a7c-86a8-4542-bda8-b42bc57b13e8,testicle.coupons,available,5.99,54.99,high,low,8,namesilo,,,21/09/2026 22:59
-b1e9e8af-e4e7-4381-a8fc-c4fd2c392a81,selected.coupons,available,3.99,,high,low,8,name.com,,,
-560a3986-59c7-420d-9194-55e5a5d3cc72,wordless.coupons,available,2.98,59.98,high,low,8,namecheap,,,03/09/2026 11:53
+25fc1a7c-86a8-4542-bda8-b42bc57b13e8,testicle.coupons,available,5.99,54.99,medium,low,8,namesilo,,,21/09/2026 22:59
+b1e9e8af-e4e7-4381-a8fc-c4fd2c392a81,selected.coupons,available,5.99,54.99,high,low,8,namesilo,,,27/09/2026 19:50
+560a3986-59c7-420d-9194-55e5a5d3cc72,wordless.coupons,available,2.98,59.98,medium,low,8,namecheap,,,03/09/2026 11:53
 e191426b-1a8d-4a37-b84e-f971c386e44d,colloidal.coupons,available,2.98,59.98,medium,low,9,namecheap,,,12/08/2026 17:12
 382ac767-f0c3-4e5e-ac5c-0ffe242816fb,unlikeable.coupons,available,2.98,59.98,medium,low,10,namecheap,,,12/09/2026 00:56
 a2261a93-2c80-4402-87b3-c8d572cb5c1f,toast.coupons,available,3.99,,high,low,5,name.com,,,
@@ -295,7 +303,7 @@ cae1e7c9-da15-425c-8b93-5ed7d12c15c7,omdurman.coupons,available,5.99,54.99,mediu
 110e19d3-08d3-4202-b134-b93830025ebd,benni.coupons,available,5.99,54.99,high,low,5,namesilo,,,23/09/2026 08:28
 bd031d5f-6d52-4713-bfc1-328abf2559d6,gainly.coupons,available,2.98,59.98,medium,low,6,namecheap,,,18/08/2026 19:33
 8bd0927b-7cc3-4426-934a-b07a5bb76d48,insidious.coupons,available,2.98,59.98,medium,low,9,namecheap,,,22/08/2026 07:05
-0682c8fc-a5f2-4e2f-b05f-2b26ce86c549,adobo.coupons,available,5.99,54.99,high,low,5,namesilo,,,17/09/2026 09:29
+0682c8fc-a5f2-4e2f-b05f-2b26ce86c549,adobo.coupons,available,5.99,54.99,medium,low,5,namesilo,,,17/09/2026 09:29
 69d200db-15cb-48d2-8bb2-c67b28f5cde5,bernini.coupons,available,5.99,54.99,high,low,7,namesilo,,,23/09/2026 09:56
 f25396b9-b690-44a3-8a9b-550fab3c20e8,acrylic.coupons,available,3.99,71.99,high,low,7,name.com,,,17/09/2026 04:05
 f4add798-1ffc-4cf5-abbf-f5598e7f4543,eastside.coupons,available,2.98,59.98,high,low,8,namecheap,,,14/08/2026 22:58
@@ -304,12 +312,12 @@ f4add798-1ffc-4cf5-abbf-f5598e7f4543,eastside.coupons,available,2.98,59.98,high,
 6f4706bd-160b-4b8a-a205-a52510e44b67,chalky.coupons,available,2.98,59.98,medium,low,6,namecheap,,,11/08/2026 13:39
 18322527-aab5-49a4-aaad-e188c38fe1ef,cervine.coupons,available,2.98,59.98,medium,low,7,namecheap,,,12/08/2026 01:00
 9509d198-6765-4c71-9522-453ac1fab61e,carboxylic.coupons,available,2.98,59.98,medium,low,10,namecheap,,,11/08/2026 18:46
-12e287b2-6fd4-46ac-8e46-d1ebd5ebbbf1,bimodal.coupons,available,2.98,59.98,high,low,7,namecheap,,,09/08/2026 23:23
-f563bf80-acf3-410c-9c60-824511777ff0,unaltered.coupons,available,2.98,59.98,high,low,9,namecheap,,,12/09/2026 00:30
+12e287b2-6fd4-46ac-8e46-d1ebd5ebbbf1,bimodal.coupons,available,2.98,59.98,medium,low,7,namecheap,,,09/08/2026 23:23
+f563bf80-acf3-410c-9c60-824511777ff0,unaltered.coupons,available,2.98,59.98,medium,low,9,namecheap,,,12/09/2026 00:30
 93f3edc2-d351-4332-b659-9b31da64036a,curable.coupons,available,2.98,59.98,high,low,7,namecheap,,,13/08/2026 10:59
 7bcd110e-6d1e-4ff5-a8d9-d991a37188e0,angela.coupons,available,5.99,54.99,high,low,6,namesilo,,,25/09/2026 13:41
 c19a0f8e-e8a0-4445-a608-e28272770ca0,slapdash.coupons,available,2.98,59.98,medium,low,8,namecheap,,,10/09/2026 09:57
-3e3f4a11-c80b-4928-82a8-fa0646608b2b,pubescent.coupons,available,2.98,59.98,high,low,9,namecheap,,,09/09/2026 05:15
+3e3f4a11-c80b-4928-82a8-fa0646608b2b,pubescent.coupons,available,2.98,59.98,medium,low,9,namecheap,,,09/09/2026 05:15
 a51c5d74-5801-4883-8985-e42982a8b771,nonpolar.coupons,available,2.98,59.98,medium,low,8,namecheap,,,03/09/2026 20:17
 c485e2e8-9969-4ece-97bd-8396392188e9,balustrade.coupons,available,5.99,54.99,high,low,10,namesilo,,,22/09/2026 00:29
 9f187b67-cc7f-40af-95d9-4b251ac224ca,jensen.coupons,available,3.99,71.99,high,low,6,name.com,,,25/09/2026 07:58
@@ -319,7 +327,7 @@ a21b6179-8c4d-4d0b-b746-779fee9fedde,alluvion.coupons,available,5.99,54.99,mediu
 76dfd7b8-f6eb-4c59-9fc0-3e8563929b82,hyperbolic.coupons,available,2.98,59.98,high,low,10,namecheap,,,21/08/2026 16:44
 f5161d34-aac0-439b-a5fa-9c0f84da1602,introduce.coupons,available,3.99,,high,low,9,name.com,,,
 c47ed88e-2600-40c4-8999-f9eb1df124bc,suspended.coupons,available,2.98,59.98,medium,low,9,namecheap,,,11/09/2026 04:55
-e69b977e-3bea-405f-860b-f190236aa9d6,papuan.coupons,available,2.98,59.98,high,low,6,namecheap,,,05/09/2026 01:44
+e69b977e-3bea-405f-860b-f190236aa9d6,papuan.coupons,available,2.98,59.98,medium,low,6,namecheap,,,05/09/2026 01:44
 d22d6921-3a0b-4a98-8d7f-7118f2fda978,phd.coupons,available,5.99,54.99,high,low,3,namesilo,,,25/09/2026 09:56
 21c73778-c78a-4009-b4ef-3573652d3b2b,illusive.coupons,available,2.98,59.98,medium,low,8,namecheap,,,21/08/2026 20:13
 9fb93b9d-34d6-446f-9ec1-51fb801ed70d,alpenstock.coupons,available,5.99,54.99,medium,low,10,namesilo,,,18/09/2026 13:32
@@ -328,7 +336,7 @@ d22d6921-3a0b-4a98-8d7f-7118f2fda978,phd.coupons,available,5.99,54.99,high,low,3
 8c20f708-7642-4451-aa9c-ec9429bc027e,regarding.coupons,available,2.98,59.98,high,low,9,namecheap,,,27/09/2026 06:20
 f63e8de3-8740-47bf-a7c8-80274ca703e0,pascal.coupons,available,5.99,54.99,high,low,6,namesilo,,,24/09/2026 03:44
 2c6dfeb6-5693-453a-a9c8-150e76ac7b75,gaudy.coupons,available,2.98,59.98,medium,low,5,namecheap,,,18/08/2026 06:37
-ed92fbc3-4022-4741-923e-959a360f111d,grandchildren.coupons,available,2.98,59.98,high,low,13,namecheap,,,
+ed92fbc3-4022-4741-923e-959a360f111d,grandchildren.coupons,available,2.98,59.98,medium,low,13,namecheap,,,
 12cc0cc0-311d-4380-a2cd-f15754ec84f2,beads.coupons,available,3.99,,high,low,5,name.com,,,
 2c7468af-f85c-42f7-84e4-2e9ec0cb84f6,sodium.coupons,available,5.99,54.99,high,low,6,namesilo,,,20/09/2026 22:13
 ed0b9c96-b6e1-407b-9475-2e1acfb84575,mercy.coupons,available,5.99,54.99,high,low,5,namesilo,,,25/09/2026 09:18
@@ -337,7 +345,7 @@ e1f967c2-bae2-4695-8347-762fc1b36b97,niobium.coupons,available,5.99,54.99,medium
 b546bf44-297e-4d77-b027-513243a50ddb,abator.coupons,available,2.98,59.98,medium,low,6,namecheap,,,16/09/2026 14:13
 ad07b212-5598-407c-9fe9-9d3588f62234,firmly.coupons,available,2.98,59.98,high,low,6,namecheap,,,19/09/2026 17:07
 af56d70a-6674-4ddb-b703-c737909c2015,bandit.coupons,available,5.99,54.99,high,low,6,namesilo,,,22/09/2026 01:19
-1d1ef87b-2aac-47a3-bc5a-e1ffa717d669,risen.coupons,available,3.99,,high,low,5,name.com,,,
+1d1ef87b-2aac-47a3-bc5a-e1ffa717d669,risen.coupons,available,5.99,54.99,high,low,5,namesilo,,,27/09/2026 15:29
 f66039d0-96a0-481f-bb55-42c8e3ab5080,cephalopod.coupons,available,2.98,59.98,medium,low,10,namecheap,,,12/08/2026 00:21
 264f94af-5236-444f-b13e-98e60f7eecf0,wares.coupons,available,5.99,54.99,medium,low,5,namesilo,,,23/09/2026 02:54
 47c898c6-80bd-4040-9f02-e42479357810,senses.coupons,available,3.99,,high,low,6,name.com,,,
@@ -346,7 +354,7 @@ f66039d0-96a0-481f-bb55-42c8e3ab5080,cephalopod.coupons,available,2.98,59.98,med
 c45bd31c-c8e3-49c3-bdf3-55a6d7988972,inch.coupons,available,5.99,54.99,high,low,4,namesilo,,,25/09/2026 08:00
 267da248-342b-43bc-9202-0e1b6e3483ac,terzetto.coupons,available,2.98,59.98,medium,low,8,namecheap,,,
 ecd6cca2-316e-4007-805e-0089dbade8a9,norms.coupons,available,3.99,,medium,low,5,name.com,,,
-83eeae08-bfb9-4f11-96c0-5b90a502689c,garbanzo.coupons,available,2.98,59.98,high,low,8,namecheap,,,24/09/2026 14:31
+83eeae08-bfb9-4f11-96c0-5b90a502689c,garbanzo.coupons,available,2.98,59.98,medium,low,8,namecheap,,,24/09/2026 14:31
 726cca91-42fd-4d05-b12d-f3efa73547d0,childly.coupons,available,2.98,59.98,medium,low,7,namecheap,,,12/08/2026 05:14
 1c893c3d-94ae-48bc-af81-04ff114a4e07,glassed.coupons,available,2.98,59.98,medium,low,7,namecheap,,,20/08/2026 14:07
 698e0e90-2524-4f8b-92a2-8ba51d5ea51d,gifted.coupons,available,2.98,59.98,high,low,6,namecheap,,,18/08/2026 23:27
@@ -362,7 +370,7 @@ d194e93e-b1c0-45b8-933a-48c98cc87900,unrevealed.coupons,available,2.98,59.98,med
 f31c780a-4f3d-4685-80f3-f5e9049ef892,diversity.coupons,available,3.99,,high,low,9,name.com,,,
 c5583015-ab35-4427-a031-bc0390df4c34,pieces.coupons,available,2.98,59.98,medium,low,6,namecheap,,,17/09/2026 19:58
 f55402ec-c746-48a0-a5fc-af0947257127,madagascan.coupons,available,2.98,59.98,medium,low,10,namecheap,,,24/08/2026 12:55
-5de19c84-beb1-451e-a612-5b29d1e1df84,dishonor.coupons,available,3.99,,high,low,8,name.com,,,
+5de19c84-beb1-451e-a612-5b29d1e1df84,dishonor.coupons,available,3.99,,medium,low,8,name.com,,,
 cab083ac-775a-4b03-9c8f-f7aef16ffaf1,gravid.coupons,available,2.98,59.98,medium,low,6,namecheap,,,16/08/2026 22:11
 f5f17715-e08f-4c5f-9ded-3fa938e766b0,adalia.coupons,available,2.98,59.98,medium,low,6,namecheap,,,17/09/2026 06:12
 544b35a4-4ea9-4335-ab2c-5a645d8bd199,sightly.coupons,available,2.98,59.98,medium,low,7,namecheap,,,10/08/2026 18:49
@@ -371,15 +379,15 @@ f5f17715-e08f-4c5f-9ded-3fa938e766b0,adalia.coupons,available,2.98,59.98,medium,
 142a14c5-a496-4d21-9bd4-79747b88e90a,sass.coupons,available,5.99,54.99,high,low,4,namesilo,,,21/09/2026 14:47
 58abb28c-ee74-4ffa-9cda-ac4affa0e85e,auld.coupons,available,2.98,59.98,medium,low,4,namecheap,,,07/08/2026 17:21
 9080a6c7-0089-4526-bdcb-13b8376bd01e,rockwell.coupons,available,5.99,54.99,high,low,8,namesilo,,,27/09/2026 04:54
-d04a1dc0-208e-4986-ab01-47ccc529894b,shaded.coupons,available,2.98,59.98,high,low,6,namecheap,,,10/09/2026 05:23
+d04a1dc0-208e-4986-ab01-47ccc529894b,shaded.coupons,available,2.98,59.98,medium,low,6,namecheap,,,10/09/2026 05:23
 80ec7729-5d61-462e-9179-1374cc954281,swank.coupons,available,2.98,59.98,high,low,5,namecheap,,,12/08/2026 04:51
 82199b8f-8ea3-43d9-828f-4127a02b6dbf,undefeated.coupons,available,2.98,59.98,high,low,10,namecheap,,,12/09/2026 07:12
 f8b25767-4891-4981-b5aa-ae6034dc5c6b,therefore.coupons,available,3.99,,high,low,9,name.com,,,
 a0d56e6e-4c66-4efe-b859-1e4b9591f705,ounce.coupons,available,3.99,,high,low,5,name.com,,,
-3aab584c-c179-4213-a5dd-a5d9801971d9,bode.coupons,available,5.99,54.99,high,low,4,namesilo,,,21/09/2026 03:28
+3aab584c-c179-4213-a5dd-a5d9801971d9,bode.coupons,available,5.99,54.99,medium,low,4,namesilo,,,21/09/2026 03:28
 2141bde8-ff02-4131-bd3c-1aeb7626c2c4,anergy.coupons,available,5.99,54.99,medium,low,6,namesilo,,,19/09/2026 05:29
-b5927adc-b5d0-4b17-b4dc-6fe5018c5efb,razorbill.coupons,available,2.98,59.98,high,low,9,namecheap,,,18/09/2026 03:39
-f839cd59-2d53-4fa3-bf4b-70047fddd03d,norseman.coupons,available,2.98,59.98,high,low,8,namecheap,,,03/09/2026 21:43
+b5927adc-b5d0-4b17-b4dc-6fe5018c5efb,razorbill.coupons,available,2.98,59.98,medium,low,9,namecheap,,,18/09/2026 03:39
+f839cd59-2d53-4fa3-bf4b-70047fddd03d,norseman.coupons,available,2.98,59.98,medium,low,8,namecheap,,,03/09/2026 21:43
 60de59d9-144f-49e7-a655-3c0bb0a82647,bliss.coupons,available,3.99,71.99,high,medium,5,name.com,,,24/09/2026 06:14
 ee207fcc-b784-4a99-a685-4ba0c2da875b,chlorine.coupons,available,2.98,59.98,high,low,8,namecheap,,,12/08/2026 09:10
 52583bd6-0782-43ab-b317-a74659e8103c,colours.coupons,available,3.99,,high,low,7,name.com,,,
@@ -395,8 +403,8 @@ c0f6a3ef-63ae-4e64-ab2b-99a00876a6d2,asimov.coupons,available,5.99,54.99,high,lo
 6d72bb83-4f3c-457b-9d9f-569ade378a9e,maunder.coupons,available,5.99,54.99,medium,low,7,namesilo,,,23/09/2026 23:31
 0c2c34f4-747b-412e-b7f7-a23ae88d798a,unfirm.coupons,available,2.98,59.98,low,low,6,namecheap,,,12/09/2026 10:19
 f29a9ae7-0fcc-4fbe-aec3-4acdabe504b2,generals.coupons,available,5.99,54.99,medium,low,8,namesilo,,,18/09/2026 06:44
-59edcc6a-e377-42d1-8d9d-16d3d080e58d,choke.coupons,available,5.99,54.99,high,low,5,namesilo,,,24/09/2026 14:43
-45331e89-0e13-4117-bc63-8d946ed92bd7,heritable.coupons,available,2.98,59.98,high,low,9,namecheap,,,21/08/2026 07:08
+59edcc6a-e377-42d1-8d9d-16d3d080e58d,choke.coupons,available,5.99,54.99,medium,low,5,namesilo,,,24/09/2026 14:43
+45331e89-0e13-4117-bc63-8d946ed92bd7,heritable.coupons,available,2.98,59.98,medium,low,9,namecheap,,,21/08/2026 07:08
 34a3c0d3-2f5f-4104-b573-294c05299e5e,untrue.coupons,available,2.98,59.98,medium,low,6,namecheap,,,26/09/2026 03:18
 31c63a44-674a-4ade-87a6-8dea6a3cb888,tog.coupons,available,2.98,59.98,high,low,3,namecheap,,,19/09/2026 20:00
 9d246d84-9d0f-44ba-92b1-3ccdda99bcff,nutcase.coupons,available,2.98,59.98,medium,low,7,namecheap,,,13/08/2026 05:36
@@ -408,12 +416,13 @@ fb495b5e-605b-412a-a966-699495346dd0,numberless.coupons,available,2.98,59.98,hig
 2c69616c-7b9e-4395-aa05-f9c4b8b26d10,aggregated.coupons,available,2.98,59.98,high,low,10,namecheap,,,
 d65ae954-3ae1-44d7-8386-56c9c7a65b0c,tenderly.coupons,available,5.99,54.99,high,low,8,namesilo,,,16/09/2026 08:17
 b9c4bf78-eb07-4c3d-a3bb-a1f643644879,vent.coupons,available,3.99,,high,low,4,name.com,,,
-3ba5bacd-afa3-4b31-8827-7165f72e819d,derelict.coupons,available,2.98,59.98,high,low,8,namecheap,,,21/09/2026 13:39
+3ba5bacd-afa3-4b31-8827-7165f72e819d,derelict.coupons,available,2.98,59.98,medium,low,8,namecheap,,,21/09/2026 13:39
 3785a869-a641-4373-b1a1-078149d56941,unstuck.coupons,available,2.98,59.98,high,low,7,namecheap,,,12/09/2026 20:40
 2c6118ee-ca13-4d84-bc66-88490894c60d,mistflower.coupons,available,2.98,59.98,medium,low,10,namecheap,,,17/09/2026 17:17
 1932957b-581a-4726-b71a-f48174c5cf6e,hanoi.coupons,available,3.99,,high,low,5,name.com,,,
 b80fbf6d-d9d1-44a8-8b19-90a02da86613,exotic.coupons,available,2.98,59.98,high,low,6,namecheap,,,17/08/2026 17:49
 877028a2-9cd2-40eb-bff7-d03b443bc5d0,girls.coupons,premium,78.54,78.54,high,low,5,namesilo,,,16/09/2026 23:49
+faae4e71-43a2-4c54-8c19-bf6e4c854821,zimmerman.coupons,available,2.98,59.98,high,low,9,namecheap,,,27/09/2026 20:41
 be7fc716-6706-40fd-b2e5-2467608fb6ed,swingy.coupons,available,2.98,59.98,medium,low,6,namecheap,,,23/08/2026 09:29
 afc3d9cf-5745-4b2b-ab71-ac0272083811,macon.coupons,available,5.99,54.99,high,low,5,namesilo,,,27/09/2026 04:39
 f33b7a0f-a54f-4ec3-8d6a-47e1ecdf1b2a,beneficent.coupons,available,2.98,59.98,high,low,10,namecheap,,,09/08/2026 14:22
@@ -423,9 +432,9 @@ e04f3349-35f4-4c10-a244-fb226c492f9c,cyborg.coupons,available,2.98,59.98,high,lo
 ca4b39c1-7d95-49ef-8847-fe7f80e5d7fd,changeless.coupons,available,2.98,59.98,medium,low,10,namecheap,,,12/08/2026 01:58
 b4cd3ee6-e51e-45a0-aa6a-b801efa7d522,nana.coupons,available,3.99,,high,low,4,name.com,,,
 7bd8c207-0a54-4979-befa-9916510220a9,greater.coupons,available,2.98,59.98,high,low,7,namecheap,,,20/08/2026 19:38
-f91cca1e-6f3a-4419-a29c-1cdf939f8a89,cultivator.coupons,available,2.98,59.98,high,low,10,namecheap,,,17/09/2026 19:20
+f91cca1e-6f3a-4419-a29c-1cdf939f8a89,cultivator.coupons,available,2.98,59.98,medium,low,10,namecheap,,,17/09/2026 19:20
 79eb67f8-1285-4a0b-a613-198d2ae63953,homozygous.coupons,available,2.98,59.98,medium,low,10,namecheap,,,21/08/2026 13:12
-cd2a5cc0-201b-4ae8-8142-0f1ad5ae56b3,klaus.coupons,available,2.98,59.98,high,low,5,namecheap,,,27/09/2026 01:38
+cd2a5cc0-201b-4ae8-8142-0f1ad5ae56b3,klaus.coupons,available,2.98,59.98,medium,low,5,namecheap,,,27/09/2026 01:38
 06587380-0e5a-4e7b-96b0-fba60a06637d,abortus.coupons,available,5.99,54.99,medium,low,7,namesilo,,,16/09/2026 16:40
 f7614754-2701-4a66-ba79-6e49a0cb0a5c,unsociable.coupons,available,2.98,59.98,medium,low,10,namecheap,,,12/09/2026 20:09
 9167980c-6a77-48ec-a74d-27b3662248b2,tears.coupons,available,2.98,59.98,high,low,5,namecheap,,,24/09/2026 02:29
@@ -435,7 +444,7 @@ a614315b-f3e0-457b-b16f-be8e987bb7d2,interesting.coupons,available,3.99,,high,lo
 4d9b6d15-b176-4769-8e78-c9c57a415259,kurt.coupons,available,5.99,54.99,high,low,4,namesilo,,,25/09/2026 13:27
 ce0a7458-4d98-4252-a140-dbab37e92406,holmium.coupons,available,5.99,54.99,medium,low,7,namesilo,,,20/09/2026 23:31
 376e1e0b-2114-47ab-916c-f2febcb62d92,sickish.coupons,available,2.98,59.98,low,low,7,namecheap,,,03/09/2026 14:05
-73e3ee42-41d0-46e4-8dac-116c89737be8,positional.coupons,available,2.98,59.98,high,low,10,namecheap,,,09/09/2026 00:06
+73e3ee42-41d0-46e4-8dac-116c89737be8,positional.coupons,available,2.98,59.98,medium,low,10,namecheap,,,09/09/2026 00:06
 172b714f-169e-4309-a8bf-81d70b8cd69b,viennese.coupons,available,2.98,59.98,high,low,8,namecheap,,,13/09/2026 05:30
 da7dbdd7-b8a4-4b9e-9a71-d294dd412d09,finer.coupons,available,2.98,59.98,high,low,5,namecheap,,,18/08/2026 04:49
 45dd873f-045c-431c-a13f-8d5587dd4a93,idiocy.coupons,available,2.98,59.98,medium,low,6,namecheap,,,18/09/2026 18:58
@@ -466,7 +475,7 @@ aff3eaa8-7050-40c1-8d15-9ae007a1e101,stadia.coupons,available,5.99,54.99,high,lo
 92947488-73df-4ffe-9db2-72e5295f9012,aviary.coupons,available,5.99,54.99,high,low,6,namesilo,,,21/09/2026 09:22
 27d9b396-7255-4445-b390-67d53b31a1b3,bankable.coupons,available,2.98,59.98,high,low,8,namecheap,,,08/08/2026 13:24
 2ed96c14-bf54-4354-80c8-637c004cfe21,hewitt.coupons,available,5.99,54.99,high,low,6,namesilo,,,25/09/2026 15:59
-dd8530c9-0bcd-4c13-be4d-7d033c09817a,apologetic.coupons,available,2.98,59.98,high,low,10,namecheap,,,06/08/2026 02:07
+dd8530c9-0bcd-4c13-be4d-7d033c09817a,apologetic.coupons,available,2.98,59.98,medium,low,10,namecheap,,,06/08/2026 02:07
 c4b6981c-e3ab-4cf1-8b46-5b051e542020,germanic.coupons,available,2.98,59.98,high,low,8,namecheap,,,18/08/2026 22:46
 bf60bab9-96b1-436a-ab8b-7aec2c7f1bb8,scorching.coupons,available,2.98,59.98,high,low,9,namecheap,,,09/09/2026 23:31
 f6d09a2c-1bdf-4944-916e-5797e0701cc5,algerian.coupons,available,2.98,59.98,high,low,8,namecheap,,,
@@ -477,12 +486,12 @@ f6d09a2c-1bdf-4944-916e-5797e0701cc5,algerian.coupons,available,2.98,59.98,high,
 9d3402e1-ce6c-46a4-8cbf-b3743cedbe62,worthy.coupons,available,2.98,59.98,high,low,6,namecheap,,,25/09/2026 15:32
 5fc120b8-4e7d-4177-a72b-4e8aa96c45f1,demanding.coupons,available,2.98,59.98,medium,low,9,namecheap,,,14/08/2026 01:06
 789a5395-1749-4769-8c23-30884ecc6db4,informers.coupons,available,2.98,59.98,medium,low,9,namecheap,,,21/09/2026 09:19
-ca061996-0634-405f-b0ec-2e52a1dc1787,backhoe.coupons,available,5.99,54.99,high,low,7,namesilo,,,21/09/2026 15:37
+ca061996-0634-405f-b0ec-2e52a1dc1787,backhoe.coupons,available,5.99,54.99,medium,low,7,namesilo,,,21/09/2026 15:37
 5128ff14-06ac-4e1a-8209-1c680ab64853,observance.coupons,available,2.98,59.98,high,low,10,namecheap,,,12/08/2026 00:35
 a1a5c0e2-62f0-478a-af38-3902010c7028,sterile.coupons,available,5.99,54.99,high,low,7,namesilo,,,22/09/2026 09:35
 07b8c6f4-6e0c-4f83-8b51-390216c75c37,glossy.coupons,available,2.98,59.98,high,low,6,namecheap,,,11/08/2026 14:10
 164967cb-7f98-4e1e-ae9b-c07b9e2b2ddc,earlier.coupons,available,5.99,54.99,high,low,7,namesilo,,,24/09/2026 12:52
-1f294c4d-f823-4bea-838c-790fe02b91e2,northerner.coupons,available,2.98,59.98,high,low,10,namecheap,,,13/09/2026 14:16
+1f294c4d-f823-4bea-838c-790fe02b91e2,northerner.coupons,available,2.98,59.98,medium,low,10,namecheap,,,13/09/2026 14:16
 70048703-a7aa-4840-9f84-6d1706e81f52,abcs.coupons,available,5.99,54.99,high,low,4,namesilo,,,16/09/2026 14:38
 76125998-1705-4918-95b1-6ed2bb26660c,vertebral.coupons,available,2.98,59.98,medium,low,9,namecheap,,,13/09/2026 04:33
 e42b955b-d2f1-445a-8453-a2ede64db6e9,trilled.coupons,available,2.98,59.98,medium,low,7,namecheap,,,09/09/2026 18:19
@@ -499,9 +508,9 @@ c2c9d634-abe9-4996-9d81-226e6471ab66,victorious.coupons,available,2.98,59.98,hig
 62995a40-8b84-4730-8cee-8eff33bbadcc,billboard.coupons,available,3.99,,high,low,9,name.com,,,
 e0ec1e78-cd0f-4be6-b976-f0038b5de31a,ramsons.coupons,available,5.99,54.99,medium,low,7,namesilo,,,18/09/2026 11:34
 d6012e1d-d456-4ffc-baaf-47ba17c7a527,reside.coupons,available,5.99,54.99,high,low,6,namesilo,,,24/09/2026 23:25
-e5dd55bb-f243-44d5-8bbb-d80d5f7b186d,uppermost.coupons,available,2.98,59.98,high,low,9,namecheap,,,11/09/2026 17:48
+e5dd55bb-f243-44d5-8bbb-d80d5f7b186d,uppermost.coupons,available,2.98,59.98,medium,low,9,namecheap,,,11/09/2026 17:48
 2c151f96-240b-4a87-940d-b442ffc01f30,ratty.coupons,available,2.98,59.98,medium,low,5,namecheap,,,25/08/2026 06:53
-c20e3d71-b602-4d0f-a1aa-668306a13721,attrition.coupons,available,2.98,59.98,high,low,9,namecheap,,,21/09/2026 02:20
+c20e3d71-b602-4d0f-a1aa-668306a13721,attrition.coupons,available,2.98,59.98,medium,low,9,namecheap,,,21/09/2026 02:20
 50c34fbb-25a3-41f4-a106-f8aa10b42fda,antiquary.coupons,available,2.98,59.98,medium,low,9,namecheap,,,
 ef2bfe72-c2e8-4734-9539-7c0648333ae7,grieving.coupons,available,2.98,59.98,medium,low,8,namecheap,,,09/08/2026 15:07
 cf64499b-e686-4454-bd6a-a7068ecbe8ba,musically.coupons,available,2.98,59.98,high,low,9,namecheap,,,15/09/2026 15:43
@@ -511,7 +520,7 @@ cf64499b-e686-4454-bd6a-a7068ecbe8ba,musically.coupons,available,2.98,59.98,high
 31973a79-b0dc-41ca-b619-0ca8ecb63f0b,absorption.coupons,available,2.98,59.98,high,low,10,namecheap,,,16/09/2026 18:19
 b8fa0446-41e3-41a2-ac2f-49a4fa178289,lupin.coupons,available,2.98,59.98,high,low,5,namecheap,,,24/08/2026 11:41
 08bb2951-5a33-4121-a0d1-3fe3bd69922d,limbic.coupons,available,2.98,59.98,medium,low,6,namecheap,,,23/08/2026 11:49
-1d9d8314-35d0-4395-86c1-bfb712a449e9,selfaware.coupons,available,2.98,59.98,high,low,10,namecheap,,,10/09/2026 02:00
+1d9d8314-35d0-4395-86c1-bfb712a449e9,selfaware.coupons,available,2.98,59.98,medium,low,10,namecheap,,,10/09/2026 02:00
 9e1e3631-84a2-4904-92d8-60a95f78f25b,alluring.coupons,available,5.99,54.99,high,low,8,namesilo,,,22/09/2026 01:34
 9f511313-490c-4ef4-bb34-4e812ffa9da2,subtropic.coupons,available,2.98,59.98,medium,low,9,namecheap,,,10/09/2026 03:34
 ceaeb9e7-378f-43f1-a826-ac6f9de53a83,organs.coupons,available,3.99,,high,low,6,name.com,,,
@@ -533,8 +542,8 @@ fde81425-f9a5-4c54-9b27-2ef93d35a5ef,randomly.coupons,available,2.98,59.98,high,
 82502fbd-75f0-4647-8e3a-a81456270e8d,nothing.coupons,available,2.98,59.98,high,low,7,namecheap,,,25/09/2026 23:27
 eb539e2e-1647-43a5-81c3-26faacfc701b,fiscal.coupons,available,5.99,54.99,high,low,6,namesilo,,,19/09/2026 10:22
 88774bb5-851c-4b23-8250-c236ac1596f9,broaden.coupons,available,3.99,,high,low,7,name.com,,,
-63a63a38-81cb-4e0e-91ff-d48c8e6c448d,laudable.coupons,available,2.98,59.98,high,low,8,namecheap,,,06/08/2026 07:01
-dc02487c-94a7-441e-a085-39c5d4e8c6e5,stormy.coupons,available,3.99,,medium,low,6,name.com,,,
+63a63a38-81cb-4e0e-91ff-d48c8e6c448d,laudable.coupons,available,2.98,59.98,medium,low,8,namecheap,,,06/08/2026 07:01
+dc02487c-94a7-441e-a085-39c5d4e8c6e5,stormy.coupons,available,5.99,54.99,medium,low,6,namesilo,,,28/09/2026 01:11
 a128ab14-47e8-401b-aa72-28d3964f2b44,contrast.coupons,available,3.99,,high,low,8,name.com,,,
 66682aa8-09df-42d3-9dcf-d4f3f9807ff7,ardeb.coupons,available,2.98,59.98,medium,low,5,namecheap,,,20/09/2026 03:06
 48fb8910-75e6-40e0-8aea-36a891ec6fef,fitness.coupons,premium,1040,1040,high,low,7,namecheap,,,
@@ -554,7 +563,8 @@ d4dcf424-ade0-48e1-8dc4-ccfe47ee8c01,allmouth.coupons,available,5.99,54.99,mediu
 dc6d6edc-afc8-441e-bd34-5e2e131a97be,neotenous.coupons,available,2.98,59.98,medium,low,9,namecheap,,,03/09/2026 15:33
 1b4bba63-3f5b-4f3d-bc2f-88ab33866a34,rice.coupons,available,3.99,,high,low,4,name.com,,,
 9f61ad95-222a-4f20-ad5c-2005e2bc8533,gabonese.coupons,available,2.98,59.98,medium,low,8,namecheap,,,18/08/2026 19:24
-e6deb3f2-ce5f-4eff-b1a8-a584135a22f9,poached.coupons,available,2.98,59.98,high,low,7,namecheap,,,10/08/2026 17:34
+e6deb3f2-ce5f-4eff-b1a8-a584135a22f9,poached.coupons,available,2.98,59.98,medium,low,7,namecheap,,,10/08/2026 17:34
+511ed2dc-333d-4f26-bed0-21758e3be5ca,ipswich.coupons,available,2.5,45.16,high,low,7,dynadot,,,27/09/2026 19:23
 fb38f99a-f1c5-4645-a33a-8a62d0657d9a,sweatshop.coupons,available,3.99,,medium,low,10,name.com,,,
 b8098b31-0a2d-4bcb-8a66-39f235783462,beirut.coupons,available,2.98,59.98,high,low,6,namecheap,,,22/09/2026 18:14
 613b4c07-48e8-45d7-acff-711ab7be8cbd,discreet.coupons,available,2.98,59.98,high,low,8,namecheap,,,12/08/2026 08:23
@@ -581,6 +591,7 @@ b4e4085d-7f11-45d0-b692-0cb00e5a1b34,cognitive.coupons,available,2.98,59.98,high
 c2899d80-385e-4936-b4ca-3ea2d4a26923,nature.coupons,available,2.98,59.98,high,low,6,namecheap,,,08/09/2026 02:43
 ab2322ed-6d27-41fc-865a-3d89af36a68d,anile.coupons,available,2.98,59.98,medium,low,5,namecheap,,,
 a26c3f40-69b9-4715-a1cb-c20ae361d632,polite.coupons,available,2.98,59.98,high,low,6,namecheap,,,13/08/2026 10:21
+757c6df0-185c-4efb-ace7-6cea2ade4dc2,herzegovina.coupons,available,5.99,54.99,medium,low,11,namesilo,,,27/09/2026 18:47
 b48a1f91-33ae-49db-b411-9f41ddfb428a,essence.coupons,available,2.98,59.98,high,low,7,namecheap,,,25/09/2026 03:33
 54357c58-9e66-4156-a079-20d2bb8b440e,dying.coupons,available,2.98,59.98,high,low,5,namecheap,,,24/09/2026 12:37
 760658f6-02f8-4c9d-9ebf-49bdbfa0d71f,project.coupons,available,5.99,54.99,high,medium,7,namesilo,,,24/09/2026 16:43
@@ -599,8 +610,8 @@ bb7811df-60ae-464b-ba98-6a36f94503dc,barracuda.coupons,available,5.99,54.99,high
 81f58aa4-6f4b-467b-9b74-64a73b0aa63b,effete.coupons,available,2.98,59.98,medium,low,6,namecheap,,,13/08/2026 20:52
 6edd2dd4-5d24-4b6a-b197-0c82cc21914d,decayable.coupons,available,2.98,59.98,low,low,9,namecheap,,,13/08/2026 20:54
 9a3edbd5-eda2-4e9f-a6c1-89425500a235,aplitic.coupons,available,2.98,59.98,medium,low,7,namecheap,,,06/08/2026 00:35
-d3c231a8-c594-4b55-bade-0c92e60761c6,sensory.coupons,available,3.99,,high,low,7,name.com,,,
-f5bb28d9-0e2b-418a-b247-0e905c3c9d48,curricular.coupons,available,2.98,59.98,high,low,10,namecheap,,,13/08/2026 11:29
+d3c231a8-c594-4b55-bade-0c92e60761c6,sensory.coupons,available,42.2,42.2,high,low,7,cloudflare,,,27/09/2026 20:08
+f5bb28d9-0e2b-418a-b247-0e905c3c9d48,curricular.coupons,available,2.98,59.98,medium,low,10,namecheap,,,13/08/2026 11:29
 66aca4e7-d4a3-4b80-99ab-619f16fee549,utterly.coupons,available,3.99,,high,low,7,name.com,,,
 02af4948-f412-4fb9-9483-79ddef07e0a5,apocynum.coupons,available,2.98,59.98,medium,low,8,namecheap,,,19/09/2026 18:15
 67f6a6a1-d66f-4833-bdb7-e4cae2ea1846,pictures.coupons,available,2.98,59.98,high,low,8,namecheap,,,25/09/2026 16:28
@@ -640,7 +651,7 @@ ec252242-2037-40eb-b0d4-c464075a1b2c,there.coupons,available,3.99,,high,low,5,na
 c59de9c8-6b4e-41c4-989a-4df8cd0bd977,devoted.coupons,available,5.99,54.99,high,low,7,namesilo,,,24/09/2026 08:04
 6f1903da-56f6-4ee5-8319-5b9af5ad26e4,twaddle.coupons,available,5.99,54.99,medium,low,7,namesilo,,,21/09/2026 23:55
 a2d76584-2fcd-4d3d-afbe-3b6fc9612123,swagger.coupons,available,2.98,59.98,high,low,7,namecheap,,,11/09/2026 04:59
-b9e0eff3-7088-4e1d-a50d-f90052cb2c0e,anyway.coupons,available,3.99,,high,low,6,name.com,,,
+b9e0eff3-7088-4e1d-a50d-f90052cb2c0e,anyway.coupons,available,42.2,42.2,medium,low,6,cloudflare,,,27/09/2026 22:14
 2f7dcaa2-1502-4457-a856-d04b982d563a,alcahest.coupons,available,2.98,59.98,medium,low,8,namecheap,,,18/09/2026 03:43
 732416f0-5491-4f55-a7fe-e53308e9a44f,althaea.coupons,available,5.99,54.99,medium,low,7,namesilo,,,18/09/2026 14:53
 e81229cd-b1d8-4fe8-b76e-97f13a179b81,darkly.coupons,available,2.98,59.98,medium,low,6,namecheap,,,14/09/2026 10:39
@@ -653,6 +664,7 @@ a5f069c0-8f20-4290-9cc3-fe54f56f759e,bangs.coupons,available,5.99,54.99,medium,l
 0b4b2b36-a260-47b5-8e78-51f51e724070,genetic.coupons,available,2.98,59.98,high,low,7,namecheap,,,18/08/2026 21:31
 52a0e930-3ee3-465c-b25b-7acc3a488388,dark.coupons,available,5.99,54.99,high,medium,4,namesilo,,,24/09/2026 04:29
 25536967-58e1-4236-8d71-ec55bfc7aa49,ste.coupons,available,5.99,54.99,high,low,3,namesilo,,,27/09/2026 07:49
+d2298a83-3eb5-40cf-9f67-c4f976645ec1,carmichael.coupons,available,5.99,54.99,high,low,10,namesilo,,,28/09/2026 02:01
 df709c9b-2ecf-450d-b02a-980cf54b338d,addax.coupons,available,5.99,54.99,medium,low,5,namesilo,,,17/09/2026 06:40
 82e8ed25-f835-47fd-ac9a-2eae96f9cde3,inundated.coupons,available,2.98,59.98,medium,low,9,namecheap,,,08/08/2026 00:29
 bbd9b80d-829e-4af7-8abb-a81c2ee52276,celeriac.coupons,available,2.98,59.98,medium,low,8,namecheap,,,19/09/2026 17:33
@@ -675,6 +687,7 @@ e403ba6e-3870-46fb-942e-816601fdbf5e,commercial.coupons,available,2.98,59.98,hig
 6582b47b-50f9-4791-9728-b5c90d2e67bc,readable.coupons,available,2.98,59.98,high,low,8,namecheap,,,13/08/2026 21:32
 895e9384-1fce-4136-87fa-7abdb0d32a35,bilateral.coupons,available,2.98,59.98,high,low,9,namecheap,,,09/08/2026 21:14
 dc1021ba-9907-4c15-a881-792da0ae33b2,luculent.coupons,available,2.98,59.98,medium,low,8,namecheap,,,24/08/2026 10:52
+69a842e4-4a42-454e-a367-d62260372eb7,harriet.coupons,available,2.27,43.67,high,low,7,spaceship,,,27/09/2026 22:29
 ae64864e-9d13-4c0e-aa9a-a4c82e3aea2c,capitular.coupons,available,2.98,59.98,medium,low,9,namecheap,,,11/08/2026 17:58
 f2fa6d18-942c-4e9f-8852-c3503b4e4fe3,radioactivity.coupons,available,3.99,,medium,low,13,name.com,,,
 55d79f83-21e8-4893-9e07-966e9526245d,feasting.coupons,available,5.99,54.99,high,low,8,namesilo,,,22/09/2026 03:07
@@ -684,7 +697,7 @@ f2fa6d18-942c-4e9f-8852-c3503b4e4fe3,radioactivity.coupons,available,3.99,,mediu
 e7715f94-5b43-4e0f-8bf6-67f0ecbfeccb,banyan.coupons,available,5.99,54.99,high,low,6,namesilo,,,22/09/2026 02:04
 33fc27fd-43b7-4fea-87b0-24c4c411195e,irving.coupons,available,5.99,54.99,medium,low,6,namesilo,,,25/09/2026 07:50
 199936e2-3139-45e3-9467-48e95045355a,gaol.coupons,available,2.98,59.98,medium,low,4,namecheap,,,08/09/2026 22:46
-b58db2eb-6089-46b9-9232-b9acf620d8f6,theist.coupons,available,2.98,59.98,high,low,6,namecheap,,,11/09/2026 12:37
+b58db2eb-6089-46b9-9232-b9acf620d8f6,theist.coupons,available,2.98,59.98,medium,low,6,namecheap,,,11/09/2026 12:37
 8642d3d6-c27e-446f-8044-e055f990e080,monochrome.coupons,available,2.98,59.98,high,low,10,namecheap,,,25/08/2026 04:59
 e231339e-2b01-47cc-b875-2bd72fd84db5,kyle.coupons,available,2.98,59.98,high,low,4,namecheap,,,25/09/2026 12:33
 174a7e63-7b3f-48f7-af46-0d5e8e97f7ae,bronzed.coupons,available,2.98,59.98,high,low,7,namecheap,,,11/08/2026 05:43
@@ -696,6 +709,7 @@ e231339e-2b01-47cc-b875-2bd72fd84db5,kyle.coupons,available,2.98,59.98,high,low,
 a12e8354-20e4-4782-9153-3399d0513c44,armeria.coupons,available,5.99,54.99,medium,low,7,namesilo,,,20/09/2026 06:43
 2779a026-3bca-4ca4-bf5f-23acb06de54f,russo.coupons,available,5.99,54.99,high,low,5,namesilo,,,27/09/2026 08:03
 08e2492a-48d0-495c-b67e-9a0d2cf699de,compatibly.coupons,available,2.98,59.98,medium,low,10,namecheap,,,14/09/2026 07:43
+02c349a4-da2d-46a5-89bf-13f52114e427,witches.coupons,available,5.99,54.99,medium,low,7,namesilo,,,27/09/2026 11:53
 1a2e585c-211a-4f97-bc9f-3886f3e8c7b7,lately.coupons,available,3.99,,high,low,6,name.com,,,
 a45dcf93-f35d-43a8-b09b-927c9407247c,bae.coupons,available,3.99,,high,low,3,name.com,,,
 986d2e40-43de-492c-9872-1e07704b5c7b,alcidae.coupons,available,5.99,54.99,medium,low,7,namesilo,,,18/09/2026 04:02
@@ -716,6 +730,7 @@ b372f22c-79b5-45ad-a736-8dbe78af46da,secure.coupons,available,5.99,54.99,high,me
 a0560788-4229-4d25-935a-1e1b1b4444b8,crisply.coupons,available,2.98,59.98,medium,low,7,namecheap,,,14/09/2026 09:37
 c48c4dd3-4d2f-4c37-a081-baf7871f1733,alcott.coupons,available,5.99,54.99,high,low,6,namesilo,,,18/09/2026 04:10
 a2df33fe-11cf-431f-ab96-e2c503d0569f,ordain.coupons,available,2.98,59.98,high,low,6,namecheap,,,12/08/2026 22:27
+73083134-70dd-42e5-aac6-131f71ee3491,sharks.coupons,available,2.27,43.67,medium,low,6,spaceship,,,27/09/2026 23:50
 c714886c-a580-4ec1-83f1-9b037ab22197,buttocks.coupons,available,2.98,59.98,medium,low,8,namecheap,,,09/08/2026 10:25
 a8e86834-f3b6-48d2-a693-c92ba8ce0dfc,backstairs.coupons,available,2.98,59.98,medium,low,10,namecheap,,,08/08/2026 06:26
 ae4de46d-8e89-4fe2-baca-62b668054ddc,backed.coupons,available,2.98,59.98,high,low,6,namecheap,,,08/08/2026 05:33
@@ -731,7 +746,7 @@ c7e77b2d-ce30-4528-98f2-37d7222a7359,cleaver.coupons,available,3.99,,medium,low,
 4be5097a-56a0-48b8-baff-27f909681b68,tenth.coupons,available,5.99,54.99,high,low,5,namesilo,,,21/09/2026 11:17
 94d51b31-3074-45d2-9699-591141c1a2a1,taxman.coupons,available,5.99,54.99,medium,low,6,namesilo,,,24/09/2026 16:18
 849ec6f7-bd80-4bf6-b825-9582c31482e4,apish.coupons,available,2.98,59.98,medium,low,5,namecheap,,,06/08/2026 00:12
-fca4906b-f59f-41cf-8b21-c814b830684c,cucumbers.coupons,available,2.98,59.98,high,low,9,namecheap,,,20/09/2026 10:05
+fca4906b-f59f-41cf-8b21-c814b830684c,cucumbers.coupons,available,2.98,59.98,medium,low,9,namecheap,,,20/09/2026 10:05
 e9806cd7-a90e-4b3c-851a-f20fdd6bad3b,arced.coupons,available,2.98,59.98,medium,low,5,namecheap,,,06/08/2026 14:28
 7333ab66-2ddf-4458-be9e-8899a6f0d5f1,adherent.coupons,available,2.98,59.98,high,low,8,namecheap,,,
 5bdcbbe8-6886-440a-a8b5-ded8a393a521,lady.coupons,available,3.99,,high,low,4,name.com,,,
@@ -755,15 +770,15 @@ af9ec440-8b1c-458d-b310-3190e85eed9d,enlarged.coupons,available,5.99,54.99,high,
 c1c7ffd9-3886-4b3f-88fc-049ae9ced63f,hominal.coupons,available,2.98,59.98,medium,low,7,namecheap,,,21/08/2026 11:35
 36affcf4-9eef-42cd-a56a-dee408ec1cb8,sasquatch.coupons,available,5.99,54.99,high,low,9,namesilo,,,23/09/2026 15:07
 a329326e-18fb-4691-88c2-f28c4ec9af51,constraint.coupons,available,5.99,54.99,high,low,10,namesilo,,,24/09/2026 17:34
-f76fd71f-3d48-40ac-8516-a0d5ae5244b7,ahura.coupons,available,2.98,59.98,high,low,5,namecheap,,,17/09/2026 20:40
+f76fd71f-3d48-40ac-8516-a0d5ae5244b7,ahura.coupons,available,2.98,59.98,medium,low,5,namecheap,,,17/09/2026 20:40
 6ed7937e-6d58-4280-82e1-b84efa5a81bf,apteryx.coupons,available,5.99,54.99,medium,low,7,namesilo,,,19/09/2026 22:37
 0d6eef41-aa71-4395-baf9-90872e245aee,energiser.coupons,available,2.98,59.98,medium,low,9,namecheap,,,19/09/2026 09:08
 dae023ee-2119-4f35-ab02-2eb8506a188c,tells.coupons,available,2.98,59.98,medium,low,5,namecheap,,,18/09/2026 14:10
-14125211-ca69-45fe-ad16-e1700476fc9e,quenched.coupons,available,2.98,59.98,high,low,8,namecheap,,,09/09/2026 08:25
+14125211-ca69-45fe-ad16-e1700476fc9e,quenched.coupons,available,2.98,59.98,medium,low,8,namecheap,,,09/09/2026 08:25
 128347e7-cacc-48b8-87f4-cb1b1b4653ea,cable.coupons,premium,85.8,85.8,high,low,5,namecheap,,,24/09/2026 11:34
 05083c1b-5d76-4f48-b22f-113e071ed740,prolonged.coupons,available,2.98,59.98,high,low,9,namecheap,,,14/08/2026 18:34
 c4499860-eb3f-46c4-b8fc-5d3cb38cdb89,skyward.coupons,available,2.98,59.98,high,low,7,namecheap,,,21/08/2026 05:26
-acaf453c-8b13-4d59-97b0-177eaa53d292,alsatian.coupons,available,2.98,59.98,high,low,8,namecheap,,,
+acaf453c-8b13-4d59-97b0-177eaa53d292,alsatian.coupons,available,2.98,59.98,medium,low,8,namecheap,,,
 ba5f509d-f364-453c-82aa-c377e36041e6,relied.coupons,available,5.99,54.99,medium,low,6,namesilo,,,20/09/2026 05:00
 09908ab5-b4e6-414a-82ae-9021ef68f538,sirens.coupons,available,3.99,71.99,medium,low,6,name.com,,,21/09/2026 02:34
 f18303d5-4fcc-4370-9a32-32df6595dee0,reports.coupons,available,5.99,54.99,high,low,7,namesilo,,,18/09/2026 16:26
@@ -791,14 +806,15 @@ a7761c47-470e-4c63-bf80-3328ddee5d7d,nervous.coupons,available,5.99,54.99,medium
 1f4e1ae4-ff3e-4475-9832-222a61e355a8,campground.coupons,available,5.99,54.99,high,low,10,namesilo,,,24/09/2026 11:56
 92fc2a4c-06da-4fe3-8620-083c23dbd7fe,bathymetry.coupons,available,5.99,54.99,medium,low,10,namesilo,,,22/09/2026 13:55
 d07c2b76-e751-4233-8555-f569b9250eff,strontium.coupons,available,5.99,54.99,medium,low,9,namesilo,,,20/09/2026 22:59
-c7490159-16ba-4676-a44b-4d78749da912,hurry.coupons,available,3.99,,high,low,5,name.com,,,
+c7490159-16ba-4676-a44b-4d78749da912,hurry.coupons,available,5.99,54.99,high,low,5,namesilo,,,27/09/2026 17:14
 30bbd84d-8d6c-4e0b-9b1d-6dba1263bd89,estonian.coupons,available,2.98,59.98,high,low,8,namecheap,,,17/08/2026 13:27
 d059066b-ac23-433e-94c3-ba8681973dc7,ancestor.coupons,available,2.98,59.98,high,low,8,namecheap,,,
-c773937f-d985-48e4-b857-6d05a4eea4e5,algal.coupons,available,2.98,59.98,high,low,5,namecheap,,,
+c773937f-d985-48e4-b857-6d05a4eea4e5,algal.coupons,available,2.98,59.98,medium,low,5,namecheap,,,
 84b2bb10-47db-40b1-949f-e81a88e2b7e8,enchanting.coupons,available,2.98,59.98,medium,low,10,namecheap,,,09/08/2026 18:21
+13682168-9ebb-4123-a50b-f783693d01fc,mae.coupons,available,2.27,43.67,high,low,3,spaceship,,,27/09/2026 18:26
 1fa7eb60-cea4-4ae9-980e-fee0396c6d46,pub.coupons,available,3.99,,high,low,3,name.com,,,
 c22b39b9-94eb-453c-9a01-db03439aa817,expectant.coupons,available,5.99,54.99,high,low,9,namesilo,,,22/09/2026 06:48
-76a77fe0-748f-42d6-9f45-1fd96a9d75f7,gnostic.coupons,available,2.98,59.98,high,low,7,namecheap,,,20/08/2026 15:47
+76a77fe0-748f-42d6-9f45-1fd96a9d75f7,gnostic.coupons,available,2.98,59.98,medium,low,7,namecheap,,,20/08/2026 15:47
 06c16607-b00a-4d9e-8a6d-6b42f3e0ff70,foursome.coupons,available,2.98,59.98,high,low,8,namecheap,,,
 b8a3f922-309b-41d1-beb0-20656f086e66,biddy.coupons,available,5.99,54.99,medium,low,5,namesilo,,,23/09/2026 13:45
 de4add3e-cb47-4aaf-a697-8536fd4b84b3,arguably.coupons,available,2.98,59.98,medium,low,8,namecheap,,,13/09/2026 20:45
@@ -807,7 +823,7 @@ de4add3e-cb47-4aaf-a697-8536fd4b84b3,arguably.coupons,available,2.98,59.98,mediu
 c77e1f25-9ec7-4592-8d42-764ed606473e,yates.coupons,available,5.99,54.99,high,low,5,namesilo,,,25/09/2026 16:03
 ba04fc4f-927f-49fe-9006-234900647cb5,olden.coupons,available,2.98,59.98,medium,low,5,namecheap,,,04/09/2026 02:02
 03a8324e-4185-4403-8d88-00d33de46127,rudiment.coupons,available,2.98,59.98,medium,low,8,namecheap,,,16/09/2026 14:36
-11f1b7c4-67ad-4a5e-9eee-196d1189810f,disassemble.coupons,available,3.99,,high,low,11,name.com,,,
+11f1b7c4-67ad-4a5e-9eee-196d1189810f,disassemble.coupons,available,3.99,,medium,low,11,name.com,,,
 101e2bb4-6c55-4fe5-95ee-d5c52d06f4fc,audile.coupons,available,2.98,59.98,medium,low,6,namecheap,,,07/08/2026 16:40
 d7c384ae-7b90-4d1c-8f88-d9821e93e473,clxxx.coupons,available,2.98,59.98,medium,low,5,namecheap,,,
 2590d3bc-10b0-4bcb-be51-8773b3670d31,jaggy.coupons,available,2.98,59.98,medium,low,5,namecheap,,,17/08/2026 12:34
@@ -852,22 +868,23 @@ b67630f0-d6be-46b1-a2cd-cb4e7b19145b,district.coupons,available,3.99,,high,low,8
 cdc7abf2-7e0d-453b-8f71-e8300c7c0eca,flavorous.coupons,available,2.98,59.98,medium,low,9,namecheap,,,18/08/2026 07:08
 1bcb9148-9085-4e25-9dd5-56c8b5e9fc57,compared.coupons,available,5.99,54.99,medium,low,8,namesilo,,,27/09/2026 09:01
 c2a15e6e-04d8-4a6f-b6d4-43b7f975c9d8,endangered.coupons,available,2.98,59.98,high,low,10,namecheap,,,17/08/2026 00:51
-928e0fde-8512-4e34-baf8-f092a5dcfba1,annapurna.coupons,available,2.98,59.98,high,low,9,namecheap,,,19/09/2026 02:23
+928e0fde-8512-4e34-baf8-f092a5dcfba1,annapurna.coupons,available,2.98,59.98,medium,low,9,namecheap,,,19/09/2026 02:23
 7641e657-c66a-4907-be7b-973139db1318,sneezes.coupons,available,2.98,59.98,medium,low,7,namecheap,,,20/09/2026 09:46
 fbd10571-4b56-49dc-8a42-4c22013313b0,primarily.coupons,available,3.99,,high,low,9,name.com,,,
 4c844081-94c1-4031-972b-26e62ca07b90,inspire.coupons,available,5.99,54.99,high,medium,7,namesilo,,,22/09/2026 04:50
 b4843de0-a9cf-4082-b7c1-9c02c6cf0c35,accepted.coupons,available,5.99,54.99,high,low,8,namesilo,,,21/09/2026 15:25
 4b3c1aad-59a6-4303-9cde-cf4919ed1205,campestral.coupons,available,2.98,59.98,medium,low,10,namecheap,,,11/08/2026 16:05
 0f31efee-17e9-46e7-8e3d-7524ff0ce0d9,scrubby.coupons,available,2.98,59.98,medium,low,7,namecheap,,,09/09/2026 23:39
+bfd153c8-8f2e-420a-bb7a-9cd0f7783e5e,psychiatrist.coupons,available,2.27,43.67,high,low,12,spaceship,,,27/09/2026 16:44
 af10c799-76d3-4cea-b21d-cab853f59618,antonym.coupons,available,2.98,59.98,high,low,7,namecheap,,,04/09/2026 16:48
 000c0690-bb16-464f-8d80-1289b14513ec,sixer.coupons,available,2.98,59.98,high,low,5,namecheap,,,
 b9ca1467-fd34-4036-a812-7c74756af4bb,tellurium.coupons,available,5.99,54.99,medium,low,9,namesilo,,,20/09/2026 23:13
 36b58df4-0f72-45bd-a119-4e44bfadb0a4,disapproval.coupons,available,3.99,,medium,low,11,name.com,,,
 f9931996-4d8d-4dba-881b-6db6ddba75a4,ignescent.coupons,available,2.98,59.98,medium,low,9,namecheap,,,21/08/2026 18:22
-6748a845-299f-4f7c-a58b-f73a27c56fcb,amman.coupons,available,5.99,54.99,high,low,5,namesilo,,,18/09/2026 21:59
+6748a845-299f-4f7c-a58b-f73a27c56fcb,amman.coupons,available,5.99,54.99,medium,low,5,namesilo,,,18/09/2026 21:59
 a591d291-c7c3-414b-b144-88a08d4d8fa2,lank.coupons,available,2.98,59.98,medium,low,4,namecheap,,,22/08/2026 19:32
 02fa5e3e-8171-4ba4-97c5-88d6ce6d6478,newsstand.coupons,available,5.99,54.99,medium,low,10,namesilo,,,17/09/2026 05:46
-e0caf5a2-9d33-4ca2-9c1b-e9bbfbbe2356,strange.coupons,available,3.99,,high,low,7,name.com,,,
+e0caf5a2-9d33-4ca2-9c1b-e9bbfbbe2356,strange.coupons,available,5.99,54.99,high,low,7,namesilo,,,28/09/2026 01:26
 3468781f-bfcd-4742-b082-00b22cd62b41,pussy.coupons,available,2.98,59.98,high,medium,5,namecheap,,,27/09/2026 08:37
 d456c74a-79ab-4c1c-a8d2-7b7fa3d27a99,receding.coupons,available,2.98,59.98,medium,low,8,namecheap,,,09/09/2026 11:16
 ce98df1e-1fe9-405b-b340-31acd94aecbd,superhuman.coupons,available,2.98,59.98,high,low,10,namecheap,,,11/09/2026 02:16
@@ -884,10 +901,10 @@ bcb4968b-3ebf-4764-b741-e8b9382ca609,crimson.coupons,available,5.99,54.99,high,l
 aa2aedb1-aadb-40dd-b2c1-c13987a8ce6c,ostracize.coupons,available,3.99,71.99,medium,low,9,name.com,,,24/09/2026 01:58
 673d8489-c22d-43ce-8204-bb232b7802a8,corn.coupons,available,,,high,low,4,,,,
 4e635f72-6a88-4c72-9696-5345170739f6,caper.coupons,available,5.99,54.99,high,low,5,namesilo,,,22/09/2026 06:32
-256c28b2-d956-4189-8925-5ac1acbb8912,clastic.coupons,available,2.98,59.98,high,low,7,namecheap,,,12/08/2026 09:56
+256c28b2-d956-4189-8925-5ac1acbb8912,clastic.coupons,available,2.98,59.98,medium,low,7,namecheap,,,12/08/2026 09:56
 477741e7-abf9-4502-8331-216bb9d406f2,forked.coupons,available,2.98,59.98,high,low,6,namecheap,,,09/08/2026 20:14
 fbd8cc5c-5af7-4f67-b30e-484579207e1a,sported.coupons,available,5.99,54.99,medium,low,7,namesilo,,,20/09/2026 16:50
-5b56c873-11b8-4a30-9396-49b16f84e145,devoutly.coupons,available,2.98,59.98,high,low,8,namecheap,,,14/09/2026 12:30
+5b56c873-11b8-4a30-9396-49b16f84e145,devoutly.coupons,available,2.98,59.98,medium,low,8,namecheap,,,14/09/2026 12:30
 9d7fcf86-6ee4-48e5-960e-53a9d5052d79,schools.coupons,available,5.99,54.99,high,low,7,namesilo,,,24/09/2026 00:37
 551d5bde-b2f2-44c6-b80a-11140aa09114,just.coupons,resell,,,high,medium,4,"Sav.com, LLC - 34",03/01/2026 15:15,03/01/2027 15:15,26/09/2026 07:03
 8b609682-eb61-4039-a0d2-5d56b54d3673,lyman.coupons,available,5.99,54.99,medium,low,5,namesilo,,,27/09/2026 08:10
@@ -916,11 +933,11 @@ cb9e6265-b1b7-4027-a9c5-6b2b08c84187,fired.coupons,available,5.99,54.99,medium,l
 734f78e2-1de7-41b6-b55d-1b4f783b2440,antwerp.coupons,available,5.99,54.99,medium,low,7,namesilo,,,19/09/2026 15:48
 9e2f0a1f-28b3-4a71-8fc2-e47a787c9bae,attached.coupons,available,2.98,59.98,high,low,8,namecheap,,,
 513fc1c2-4798-4205-806c-49724645d9e2,attenuate.coupons,available,2.98,59.98,medium,low,9,namecheap,,,07/08/2026 15:21
-b330706e-dc98-4e2f-859b-bcc76b1df808,chordal.coupons,available,2.98,59.98,high,low,7,namecheap,,,12/08/2026 07:06
+b330706e-dc98-4e2f-859b-bcc76b1df808,chordal.coupons,available,2.98,59.98,medium,low,7,namecheap,,,12/08/2026 07:06
 a46a6cef-9cb7-4b2e-b5a1-0a38d9ef822b,druggist.coupons,available,2.98,59.98,high,low,8,namecheap,,,19/09/2026 19:38
 8ee257e8-3bf9-4e75-b7e9-892ad2ce2946,cypher.coupons,available,2.98,59.98,high,medium,6,namecheap,,,
 acfe6698-75a8-4382-8536-57ae284ccaf4,breathe.coupons,available,3.99,,high,low,7,name.com,,,
-7146b1be-c5b9-4525-b531-9d5f8807ebe5,running.coupons,available,3.99,,high,low,7,name.com,,,
+7146b1be-c5b9-4525-b531-9d5f8807ebe5,running.coupons,available,2.27,43.67,high,low,7,spaceship,,,27/09/2026 17:05
 fbb5e504-1ed0-47d3-9cde-0b1c5a8a1519,postnatal.coupons,available,2.98,59.98,medium,low,9,namecheap,,,09/09/2026 00:35
 683aa929-1506-4afe-93c1-b0f39618fd2b,subvert.coupons,available,2.98,59.98,medium,low,7,namecheap,,,13/08/2026 02:15
 8decc54e-3a1c-4305-86be-cbc310bc51fb,bullets.coupons,available,2.98,59.98,high,low,7,namecheap,,,25/09/2026 19:55
@@ -943,6 +960,7 @@ be1b3fa4-69a1-4b45-8778-272fc9f01d92,snapping.coupons,available,3.99,,high,low,8
 3976cd6c-3488-481b-8f88-47c656434cbd,sterilization.coupons,available,2.98,59.98,high,low,13,namecheap,,,16/09/2026 21:54
 99265533-a0fe-4ecc-bdbe-63d4dfb652a7,daylong.coupons,available,3.99,71.99,medium,low,7,name.com,,,13/08/2026 18:51
 0bff958e-bf56-4896-b00d-e030cfc9139a,sodden.coupons,available,2.98,59.98,medium,low,6,namecheap,,,10/09/2026 13:24
+8c268c9e-d46d-4045-b2ba-fdb85865b81e,grant.coupons,available,2.57,43.77,high,low,5,porkbun,,,27/09/2026 12:18
 ca48cee1-8b6d-47c7-a9c3-5877459097c9,sacks.coupons,available,2.98,59.98,medium,low,5,namecheap,,,20/09/2026 18:55
 60cde359-1c88-4f5a-b35c-68e355f631d7,nonplus.coupons,available,5.99,54.99,medium,low,7,namesilo,,,21/09/2026 17:34
 c4674ec4-ca23-4781-9bd3-8d47a871d5ce,walt.coupons,available,2.98,59.98,high,low,4,namecheap,,,25/09/2026 12:09
@@ -971,31 +989,13 @@ cbe572eb-d4b4-45cf-8f92-84738ec2a41f,alsace.coupons,available,2.98,59.98,high,lo
 99741919-d8d3-4847-9fb5-5d20507f0a0c,adrenaline.coupons,available,5.99,54.99,high,low,10,namesilo,,,17/09/2026 09:55
 21b85ce0-513f-4d6a-be83-fd440a0fbd33,bellyache.coupons,available,5.99,54.99,medium,low,9,namesilo,,,23/09/2026 00:26
 1957677e-5883-4e3a-a6f0-bd9113d110fc,mature.coupons,available,2.98,59.98,high,low,6,namecheap,,,24/09/2026 19:39
+2389633a-71f7-4dc4-a8f3-14eac3b45061,tasmania.coupons,available,2.98,59.98,high,low,8,namecheap,,,27/09/2026 16:02
 76b9904a-6d75-4a1b-921c-327d74b4422b,nickelodeon.coupons,available,3.99,,high,low,11,name.com,,,
 6d63117f-f272-4eda-9df1-d4d28ab2e8ad,idempotent.coupons,available,2.98,59.98,medium,low,10,namecheap,,,21/08/2026 18:03
+fe995f64-993a-4408-8d60-8def571f5904,seeking.coupons,available,5.99,54.99,high,low,7,namesilo,,,27/09/2026 15:47
 fd2bddf9-5beb-4de1-aad0-a6449d9e941c,anxiously.coupons,available,2.98,59.98,medium,low,9,namecheap,,,13/09/2026 20:05
 0b00841d-a9aa-4f18-92c5-29f4b37d151d,lookout.coupons,available,3.99,,high,low,7,name.com,,,
 e4b1a71b-1fa9-4931-8b0d-716b3bcd6e16,pcp.coupons,available,5.99,54.99,high,low,3,namesilo,,,19/09/2026 05:52
 29ac7bc8-7b75-4e28-89a7-6885d79d743e,uncaring.coupons,available,2.98,59.98,medium,low,8,namecheap,,,12/09/2026 00:02
 f0007b15-4cd8-4a05-8a30-c1b9955997b5,dillon.coupons,available,5.99,54.99,high,low,6,namesilo,,,25/09/2026 15:31
 689c4b4b-901d-48c5-a545-653ff9d53f7c,blende.coupons,available,3.99,71.99,medium,low,6,name.com,,,24/09/2026 05:43
-e88cf4ee-ec31-417c-aee4-6bcc04af54b9,elena.coupons,available,5.99,54.99,high,low,5,namesilo,,,27/09/2026 03:02
-e62a9bc9-e4fd-4b89-aca8-a8f15f7405be,jowly.coupons,available,2.98,59.98,medium,low,5,namecheap,,,14/08/2026 16:48
-537c8dc7-8b69-490f-b3d5-540c7fcde235,sun.coupons,resell,,,high,medium,3,Dynadot Inc,01/06/2026 18:02,01/06/2027 18:02,26/09/2026 09:24
-acc404af-ebbc-4e5f-a14d-c0ec18dda832,portable.coupons,available,5.99,54.99,high,low,8,namesilo,,,27/09/2026 04:40
-ae60d43b-4755-48ac-a865-21d3ce1d8a62,bazooka.coupons,available,2.98,59.98,high,low,7,namecheap,,,22/09/2026 18:25
-59fcbeb9-879f-43e1-8979-8a01bb9e84ee,carolean.coupons,available,2.98,59.98,medium,low,8,namecheap,,,11/08/2026 19:31
-a5fcd6b4-b5c5-4134-bb4a-3112bc13b53a,suburban.coupons,available,2.98,59.98,high,low,8,namecheap,,,11/09/2026 00:54
-645343ae-7d6e-4168-ae1c-625cefcb766b,drumhead.coupons,available,2.98,59.98,medium,low,8,namecheap,,,14/08/2026 20:15
-4ef17290-3a9a-4474-b746-19f9b1764917,hogan.coupons,available,5.99,54.99,high,low,5,namesilo,,,23/09/2026 07:21
-ed5d141d-f883-455e-8c45-aa8457bb6c0d,abducent.coupons,available,2.98,59.98,medium,low,8,namecheap,,,
-4d2bf0e6-d270-4e0b-97b6-77642d9d0b6c,futurity.coupons,available,2.98,59.98,high,low,8,namecheap,,,18/08/2026 19:11
-12fc0314-1b00-4a5a-ac1a-1dfb294fd643,which.coupons,available,,,high,medium,5,,,,
-a82e044c-0cd0-4be8-a159-02ae79cd768f,managers.coupons,available,5.99,54.99,medium,low,8,namesilo,,,20/09/2026 10:01
-5849ce63-bf90-4483-99ef-77e37bb420a5,montagu.coupons,available,5.99,54.99,medium,low,7,namesilo,,,20/09/2026 13:56
-4f3b7b28-d080-48fa-af3e-467002128cf6,dart.coupons,available,2.98,59.98,high,low,4,namecheap,,,18/08/2026 07:49
-f5f6d4c9-f1fa-4b8e-8d84-dcacc3a67b5f,bridge.coupons,available,3.99,,high,medium,6,name.com,,,
-539f8983-618d-4c5b-b276-f6c76001a71a,shy.coupons,available,3.99,,high,low,3,name.com,,,
-4a755fb7-6e16-4266-96f6-e0cb60021274,coloring.coupons,available,2.98,59.98,high,low,8,namecheap,,,12/08/2026 17:31
-58f4caf1-d2f9-479e-8e5e-151332824236,wrist.coupons,available,3.99,,high,low,5,name.com,,,
-7945834e-5087-4795-90f7-8a225bdc46b6,unceasing.coupons,available,2.98,59.98,high,low,9,namecheap,,,
